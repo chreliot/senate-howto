@@ -18,7 +18,7 @@ The main institutional, academic and academic-related policies the Senate works 
 
 
  * **[The Faculty Policy Series][FPS]**: The FPS sets out policies and procedures for faculty members. There are currently about 62 of them, numbered between 1 and 99. More workaday than the Statutes—less fundamental and structural and more procedural—they range widely in topic, from instructional matters like handling academic integrity violations and grade appeals; to research matters like conflict of interest, copyright, and misconduct policies; to organizational matters like the responsibilities of department chairs and how adjunct faculty are hired; to employment matters like research leave and sick leave.
- * **[The Bulletin][Bulletin]**: Published annually, the Bulletin comes in several forms: Undergraduate, Graduate, and Law and for undergraduate main/Summer/January sessions. It is fully online. Besides course and program descriptions, it outlines academic policies in a student-oriented way. It tells students what they can expect from the university and what will be required of them.
+ * **[The Bulletins][Bulletin]**: Published annually, the Bulletins come in several forms: Undergraduate, Graduate, and Law and for undergraduate main/Summer/January sessions. They are fully online. Besides course and program descriptions, each bulletin outlines academic policies in a student-oriented way. It tells students what they can expect from the university and what will be required of them.
  * **[The Faculty Statutes][FS]**: These nine items (plus two more moved or withdrawn), numbered with Roman I to XI, represent general, foundational policies. They establish the university's administrative structure, determine who is on the Faculty and how they're appointed to it, specify how faculty meetings shall be conducted, and create the senate itself. 
  
 Much of the work of the Senate involves supervising the FPS and the general, university-wide portions of the Bulletin. The FPS is the main place the Senate commits new and updated procedures.
@@ -63,7 +63,7 @@ The University President and the Speaker of the Faculty normally notify the Sena
 
 Though it is not the standard workflow for fully reviewing initiatives, sometimes items are introduced at  Senate or full faculty meetings as motions (subject to guidelines in FS VII, FS X, and *Robert's Rules*). In other words, it's not *required* that items coming before the Senate have their origin in a committee. But because the Senate isn't equipped to evaluate the full implications or complexities of many proposals, new business introduced at Senate may often be referred to the appropriate committee for analysis, or at least to the Executive Committee. 
 
-But also, the Senate's rules specify that “before a vote may be taken on an item presented for action, senators must have had at least two working days published notice” (FS VII C.2.a). So, action items must be circulated in advance. The Senate's Senior Support Specialist usually finalizes and circulates the Senate's agenda on the Thursday before Monday Senate meetings. So, items that need “published notice” need to go to her before then. Ideally, they would also go  to the Senate Executive Committee which sets the agenda; it normally meets one week before Senate meetings.
+But also, the Senate's rules specify that “before a vote may be taken on an item presented for action, senators must have had at least two working days published notice” (FS VII C.2.a). So, action items must be circulated in advance. The Senate's Senior Support Specialist usually finalizes and circulates the Senate's agenda on the Thursday before Monday Senate meetings. So, items that need “published notice” need to go to her before then. Ideally, they would also go  to the Senate Executive Committee, which sets the meeting agenda; it normally meets one week before Senate meetings.
 
 ## What rules govern the Senate?
 
@@ -77,7 +77,7 @@ Of course, in the background, Hofstra's general policies, including those in the
 
 ## What rules govern Senate committees?
 
-Senate committees are governed by the same rules as the Senate, but in particular by the sections of the [By-laws][bylaws] establishing their committee. The By-laws set out the membership and the mandate for each committee and sometimes other guidance. Reading one's committee's brief By-laws carefully helps a lot when the question arises, What are we doing here again?
+Senate committees are governed by the same rules as the Senate, but in particular by the sections of the [Senate By-laws][bylaws] establishing their committee. The By-laws set out the membership and the mandate for each committee and sometimes other guidance. Reading one's committee's brief By-laws carefully helps a lot when the question arises, What are we doing here again?
 
 Similarly, Senate committees are governed by *Robert's Rules of Order*. Some awkwardness in committee meetings and grumbling about rules can be due to confusions about what *Robert's Rules* involves. It is widely overlooked that the *Rules* acknowledges that in committees “some of the formality that is necessary in a large assembly would hinder business” (*RRO* 49:21).
 
@@ -103,7 +103,7 @@ The Senate appoints to Senate committees others who are *not* voting members of 
 
 The membership of each Senate committee is specified by its page in the [Senate By-laws][bylaws], and the current members of each committee are listed on the Senate website, on the [committees page][comp].
 
-It is important to recognize, as a committee participant, that not everyone who attends committee meetings attends in the same capacity or has the same responsibilities there. Committees include elected senators and appointed senators-at-large, and they are responsible for doing the work of the committee. The senators and senators-at-large also elect one of their members to be committee's chair. The committee By-laws also specify an advisor for many of the committees who is usually a member of the Provost's office. And many committees have regular guests who also attend in an advisory capacity, people like the Registrar or the Dean of Graduate Admissions.
+It is important to recognize, as a committee participant, that not everyone who attends committee meetings attends in the same capacity or has the same responsibilities there. Committees include elected senators and appointed senators-at-large, and they are responsible for doing the work of the committee. The senators and senators-at-large also elect one of their members to be committee's chair. The committee sections of the By-laws also specify an advisor for many of the committees who is usually a member of the Provost's office. And many committees have regular guests who also attend in an advisory capacity, people like the Registrar or the Dean of Graduate Admissions.
 
 ## What do committee chairs do?
 
@@ -130,7 +130,7 @@ also observe meetings of the Senate. These others may, upon invitation of the Se
 
 ## Who coordinates the Senate?
 
-Most of the logistical work reqiured to operate the Senate is performed by the Senate's Senior Support Specialist. She sends the invitations, organizes the agendas, puts out the name placards, coordinates the Zoom during meetings, and lots else. Currently the Senate's Senior Support Specialist is Caroline Schreiner ([contact information][caroline]).
+Most of the logistical work required to operate the Senate is performed by the Senate's Senior Support Specialist. She sends the invitations, organizes the agendas, puts out the name placards, coordinates the Zoom during meetings, and lots else. Currently the Senate's Senior Support Specialist is Caroline Schreiner ([contact information][caroline]).
 
 The President of the University Senate runs it. The Senate president is a faculty member who is an elected senator subsequently elected by the Senate to be its president (FS VII C.1.a). The President of the Senate also chairs the Senate's Executive Committee. Until 2023, the University Provost presided over the Senate, while the SEC was chaired by a faculty member. Currently the Senate President is Christopher (Chris) Eliot ([contact information][chris]).
 
