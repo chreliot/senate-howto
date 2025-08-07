@@ -1,0 +1,16 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "pandoc -f markdown -t latex --template=howto-template.tex --shift-heading-level-by=-1 -o senate-howto.tex main.md"
+    },
+    "clean" : {
+      "enabled" : true,
+      "script" : "latexmk -C"
+    },
+    "run" : {
+      "enabled" : true,
+      "script" : "latexmk -lualatex -pv -bibtex- senate-howto.tex"
+    }
+  }
+}
