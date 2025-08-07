@@ -1,10 +1,8 @@
-# Hofstra University Senate How-to
-
-This is an informal introduction to Hofstra University's University Senate, written especially to orient new senators. (This introduction does not itself constitute official policy but will point out where official policies can be found.)
-
-## Why is there a University Senate?
+## Why be interested in this?
 
 We joined the university, pretty much all of us, to work on things other than academic policy. But we all want to do well here, and we want the university to do well. Having a set of guidelines and rules governing how we do things can help everyone do what they want to do here well. Ideally, those guidelines—those *policies*—set us up to teach and learn and engage with one another happily and productively, without onerous encumbrances. Moreover, ideally the policies are ones we can get behind, because we or our elected representatives had a hand in crafting them or in keeping them around.
+
+## Why is there a University Senate?
 
 Accordingly, Hofstra's Faculty Statute VII establishes “a University Senate, convened by the Faculty.” Our senate has “general powers of supervision over all academic matters concerning the University as a whole.” And it can take up “any other matters referred to it by the Board of Trustees, the University President, or the Provost of the University” (FS VII).
 
@@ -12,7 +10,7 @@ Accordingly, Hofstra's Faculty Statute VII establishes “a University Senate, c
 
 Besides supervising "all academic matters concerning the University as a whole" and dealing with matters referred to it, the Senate is empowered to “review and provide recommendations on policies and initiatives impacting academic matters.” And, besides, it can “generate initiatives regarding academic matters” (FS VII 3). So, it supervises, reviews, and initiates. And it does those things with  both academic matters and anything impacting academic matters. The result can be policies, but also reports and other initiatives. 
 
-## Which policies?
+## Which policies does the Senate work on?
 
 The main institutional, academic and academic-related policies the Senate works on are in three places:
 
@@ -27,7 +25,7 @@ Most of the Senate's business concerns policies for the schools *other than* the
 
 Occasionally, the Senate also passes items that don't fit neatly into the FPS or Bulletin, or even the Statutes, like a communication to the University President or guidance to its Registrar.
 
-## What about other university policies?
+## What about university policies other than FPS/Bulletin/FS?
 
 An area Hofstra's Senate is *not* involved in is determining faculty, staff, or student workplace conditions and compensation. Those are the domain of Hofstra's collective bargaining units and unions. For faculty, Hofstra's chapter of the American Association of University Professors negotiates agreements that are codified in the current [Collective Bargaining Agreement][CBA], available on the AAUP chapter website.
 
