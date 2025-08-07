@@ -26,17 +26,19 @@
 \setsansfont[Scale=1.0]{Helvetica}
 \setmonofont[Scale=1.0]{Courier}
 
-\usepackage[
+\usepackage[ % requires LuaLaTeX
   driver=luatex,
   margin=1.2in
 ]{geometry}
 
 \usepackage{fancyhdr} \pagestyle{fancy}
 \fancyhead{} \fancyhead[LE,RO]{Senate How-to (\the\year)}
+
 \usepackage{sectsty}
 \sectionfont{\normalsize}
+
 \usepackage{textcase}
-\usepackage{pdfpages} % for including PDF attachments
+% \usepackage{pdfpages} % for including PDF attachments
 
 \usepackage{tocloft} % for customizing a compact table of contents 
 % Customize apperance of ToC:
@@ -48,10 +50,10 @@
 \renewcommand{\cftsecpagefont}{\mdseries} % change page numbers from bold to regular
 \renewcommand{\cftsetpnumwidth}{0em} % less space to the left of the page numbers
 
-% A hack to ignore "\tightlist":
-\def\tightlist{}
+% Avoid undefined \tightlist error from Pandoc
+\providecommand{\tightlist}{}
 
-\title{Grad Acad Aff Cmte Meeting Agenda \DTMusedate{meetingdate}}
+\title{}
 
 \hypersetup{
 pdftitle={Senate How-to},
@@ -82,7 +84,7 @@ pdflang={English},
 % INTRODUCTION %
 %%%%%%%%%%%%%%%%
 
-\noident This is an informal introduction to Hofstra University's University
+\noindent This is an informal introduction to Hofstra University's University
 Senate, written especially to orient new senators. (This introduction
 does not itself constitute official policy but will point out where
 official policies can be found.)
