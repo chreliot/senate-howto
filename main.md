@@ -1,3 +1,9 @@
+---
+title: Senate How-To
+author: Christopher Eliot
+date: 2025-08-08
+---
+
 ## Why be interested in this?
 
 We joined the university, pretty much all of us, to work on things other than academic policy. But we all want to do well here, and we want the university to do well. Having a set of guidelines and rules governing how we do things can help everyone do what they want to do here well. Ideally, those guidelines—those *policies*—set us up to teach and learn and engage with one another happily and productively, without onerous encumbrances. Moreover, ideally the policies are ones we can get behind, because we or our elected representatives had a hand in crafting them or in keeping them around.
@@ -13,7 +19,6 @@ Besides supervising "all academic matters concerning the University as a whole" 
 ## Which policies does the Senate work on?
 
 The main institutional, academic and academic-related policies the Senate works on are in three places:
-
 
  * **[The Faculty Policy Series][FPS]**: The FPS sets out policies and procedures for faculty members. There are currently about 62 of them, numbered between 1 and 99. More workaday than the Statutes—less fundamental and structural and more procedural—they range widely in topic, from instructional matters like handling academic integrity violations and grade appeals; to research matters like conflict of interest, copyright, and misconduct policies; to organizational matters like the responsibilities of department chairs and how adjunct faculty are hired; to employment matters like research leave and sick leave.
  * **[The Bulletins][Bulletin]**: Published annually, the Bulletins come in several forms: Undergraduate, Graduate, and Law and for undergraduate main/Summer/January sessions. They are fully online. Besides course and program descriptions, each bulletin outlines academic policies in a student-oriented way. It tells students what they can expect from the university and what will be required of them.
@@ -51,7 +56,7 @@ Action items passed by the Senate normally go to the full faculty for its approv
 
 Items passed by the full faculty are then sent, via intermediate review by the Provost and the Office of General Counsel, to the University President and Board of Trustees. Items passed by the Senate only become policies when approved and signed by the University President.
 
-The standard approval sequence for Senate proposals is therefore: (subcommittee →) standing/special committee → Senate Executive Committee → University Senate → Faculty → legal → Provost → University President (→ Board of Trustees).
+The standard approval sequence for Senate proposals is therefore: (subcommittee → ) standing/special committee → Senate Executive Committee → University Senate → Faculty → legal → Provost → University President ( → Board of Trustees).
 
 However, the flow of passed motions is not always linear; items are sometimes  returned to previous stages, including all the way back to the originating committees.
 

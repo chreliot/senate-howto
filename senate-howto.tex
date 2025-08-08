@@ -1,3 +1,11 @@
+\DocumentMetadata{
+pdfstandard={UA-2,A-4f},
+tagging=on,
+lang=en,
+tagging-setup=
+  {math/setup=mathml-SE,
+  extra-modules=verbatim-alt}
+}   % default set-up as of 2025-06-10
 \documentclass[12pt]{article}
 
 %%%%%%%%%%%%%
@@ -18,35 +26,49 @@
 %%% LOAD REQUIRED PACKAGES %%%
 
 \usepackage{hyperref}
+
 \usepackage{enumitem} \setlist[enumerate,itemize]{noitemsep}
 \usepackage{fontspec} \defaultfontfeatures{Ligatures={Common},
 % Numbers=Lining
 }
-\setromanfont[Scale=1.0]{Adobe Caslon Pro}
+\setromanfont[Scale=1.0]{Adobe Garamond Pro}
 \setsansfont[Scale=1.0]{Helvetica}
 \setmonofont[Scale=1.0]{Courier}
-\usepackage[driver=luatex,left=.8in,right=.8in,top=.8in,bottom=.8in]{geometry}
+
+\usepackage[ % requires LuaLaTeX
+  driver=luatex,
+  margin=1.4in
+]{geometry}
+
 \usepackage{fancyhdr} \pagestyle{fancy}
 \fancyhead{} \fancyhead[LE,RO]{Senate How-to (\the\year)}
+
 \usepackage{sectsty}
 \sectionfont{\normalsize}
+
 \usepackage{textcase}
-\usepackage{pdfpages} % for including PDF attachments
+% \usepackage{pdfpages} % for including PDF attachments
 
 \usepackage{tocloft} % for customizing a compact table of contents 
 % Customize apperance of ToC:
-\setlength{\cftbeforetoctitleskip}{-1em} % remove 1em of vertical space before ToC
+% \setlength{\cftbeforetoctitleskip}{-1em} % remove 1em of vertical space before ToC
 \setlength{\cftbeforesecskip}{0mm} % compress vertical spacing between entries
 \renewcommand{\cftsecfont}{\mdseries} % change section entries from bold to regular
 \renewcommand\contentsname{} % cut out the heading "Contents" before ToC
-\renewcommand{\cftsecleader}{\mdseries\cftdotfill{\cftdotsep}} % add dot fill?
+% \renewcommand{\cftsecleader}{\mdseries\cftdotfill{\cftdotsep}} % add dot fill?
 \renewcommand{\cftsecpagefont}{\mdseries} % change page numbers from bold to regular
-\renewcommand{\cftsetpnumwidth}{0em} % less space to the left of the page numbers
+% \renewcommand{\cftsetpnumwidth}{0em} % less space to the left of the page numbers
 
-% A hack to ignore "\tightlist":
-\def\tightlist{}
 
-\title{Grad Acad Aff Cmte Meeting Agenda \DTMusedate{meetingdate}}
+%%%%%%%%%
+% FIXES %
+%%%%%%%%%
+
+
+% % Avoid undefined \tightlist error from Pandoc
+\providecommand{\tightlist}{}
+
+
 
 \hypersetup{
 pdftitle={Senate How-to},
@@ -55,8 +77,12 @@ pdfkeywords={Hofstra, Senate, introduction},
 pdflang={English},
 }
 
+%%%%%%%%%%%%
+% HEADINGS %
+%%%%%%%%%%%%
 
 \begin{document}
+
 \thispagestyle{empty}
 
 %%%%%%%%%
@@ -73,9 +99,9 @@ pdflang={English},
 % INTRODUCTION %
 %%%%%%%%%%%%%%%%
 
-\noident This is an informal introduction to Hofstra University's University
+\noindent This is an informal introduction to Hofstra University's University
 Senate, written especially to orient new senators. (This introduction
-does not itself constitute official policy, but it points out where
+does not itself constitute official policy but will point out where
 official policies can be found.)
 
 
@@ -90,9 +116,11 @@ official policies can be found.)
 \end{center}
 
 
+%%%%%%%%%%%%%%%
+% BODY MATTER %
+%%%%%%%%%%%%%%%
 
-\section{Why is there a University
-Senate?}\label{why-is-there-a-university-senate}
+\section{Why be interested in this?}\label{why-be-interested-in-this}
 
 We joined the university, pretty much all of us, to work on things other
 than academic policy. But we all want to do well here, and we want the
@@ -103,6 +131,9 @@ and learn and engage with one another happily and productively, without
 onerous encumbrances. Moreover, ideally the policies are ones we can get
 behind, because we or our elected representatives had a hand in crafting
 them or in keeping them around.
+
+\section{Why is there a University
+Senate?}\label{why-is-there-a-university-senate}
 
 Accordingly, Hofstra's Faculty Statute VII establishes ``a University
 Senate, convened by the Faculty.'' Our senate has ``general powers of
@@ -123,7 +154,8 @@ supervises, reviews, and initiates. And it does those things with both
 academic matters and anything impacting academic matters. The result can
 be policies, but also reports and other initiatives.
 
-\section{Which policies?}\label{which-policies}
+\section{Which policies does the Senate work
+on?}\label{which-policies-does-the-senate-work-on}
 
 The main institutional, academic and academic-related policies the
 Senate works on are in three places:
@@ -174,8 +206,8 @@ Occasionally, the Senate also passes items that don't fit neatly into
 the FPS or Bulletin, or even the Statutes, like a communication to the
 University President or guidance to its Registrar.
 
-\section{What about other university
-policies?}\label{what-about-other-university-policies}
+\section{What about university policies other than
+FPS/Bulletin/FS?}\label{what-about-university-policies-other-than-fpsbulletinfs}
 
 An area Hofstra's Senate is \emph{not} involved in is determining
 faculty, staff, or student workplace conditions and compensation. Those
@@ -245,9 +277,10 @@ President and Board of Trustees. Items passed by the Senate only become
 policies when approved and signed by the University President.
 
 The standard approval sequence for Senate proposals is therefore:
-(subcommittee →) standing/special committee → Senate Executive Committee
-→ University Senate → Faculty → legal → Provost → University President
-(→ Board of Trustees).
+(subcommittee \rightarrow{} ) standing/special committee \rightarrow{}
+Senate Executive Committee \rightarrow{} University Senate \rightarrow{}
+Faculty \rightarrow{} legal \rightarrow{} Provost \rightarrow{}
+University President ( \rightarrow{} Board of Trustees).
 
 However, the flow of passed motions is not always linear; items are
 sometimes returned to previous stages, including all the way back to the

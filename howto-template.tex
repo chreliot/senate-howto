@@ -1,3 +1,11 @@
+\DocumentMetadata{
+pdfstandard={UA-2,A-4f},
+tagging=on,
+lang=en,
+tagging-setup=
+  {math/setup=mathml-SE,
+  extra-modules=verbatim-alt}
+}   % default set-up as of 2025-06-10
 \documentclass[12pt]{article}
 
 %%%%%%%%%%%%%
@@ -18,17 +26,18 @@
 %%% LOAD REQUIRED PACKAGES %%%
 
 \usepackage{hyperref}
+
 \usepackage{enumitem} \setlist[enumerate,itemize]{noitemsep}
 \usepackage{fontspec} \defaultfontfeatures{Ligatures={Common},
 % Numbers=Lining
 }
-\setromanfont[Scale=1.0]{Adobe Caslon Pro}
+\setromanfont[Scale=1.0]{Adobe Garamond Pro}
 \setsansfont[Scale=1.0]{Helvetica}
 \setmonofont[Scale=1.0]{Courier}
 
 \usepackage[ % requires LuaLaTeX
   driver=luatex,
-  margin=1.2in
+  margin=1.4in
 ]{geometry}
 
 \usepackage{fancyhdr} \pagestyle{fancy}
@@ -42,18 +51,24 @@
 
 \usepackage{tocloft} % for customizing a compact table of contents 
 % Customize apperance of ToC:
-\setlength{\cftbeforetoctitleskip}{-1em} % remove 1em of vertical space before ToC
+% \setlength{\cftbeforetoctitleskip}{-1em} % remove 1em of vertical space before ToC
 \setlength{\cftbeforesecskip}{0mm} % compress vertical spacing between entries
 \renewcommand{\cftsecfont}{\mdseries} % change section entries from bold to regular
 \renewcommand\contentsname{} % cut out the heading "Contents" before ToC
-\renewcommand{\cftsecleader}{\mdseries\cftdotfill{\cftdotsep}} % add dot fill?
+% \renewcommand{\cftsecleader}{\mdseries\cftdotfill{\cftdotsep}} % add dot fill?
 \renewcommand{\cftsecpagefont}{\mdseries} % change page numbers from bold to regular
-\renewcommand{\cftsetpnumwidth}{0em} % less space to the left of the page numbers
+% \renewcommand{\cftsetpnumwidth}{0em} % less space to the left of the page numbers
 
-% Avoid undefined \tightlist error from Pandoc
+
+%%%%%%%%%
+% FIXES %
+%%%%%%%%%
+
+
+% % Avoid undefined \tightlist error from Pandoc
 \providecommand{\tightlist}{}
 
-\title{}
+
 
 \hypersetup{
 pdftitle={Senate How-to},

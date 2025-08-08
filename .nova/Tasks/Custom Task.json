@@ -2,7 +2,7 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "script" : "pandoc -f markdown -t latex --template=howto-template.tex --shift-heading-level-by=-1 -o senate-howto.tex main.md"
+      "script" : "#!\/bin\/sh\n\npandoc -f markdown -t latex  --template=howto-template.tex  --shift-heading-level-by=-1  --lua-filter=replace-arrow.lua -o senate-howto.tex  main.md"
     },
     "clean" : {
       "enabled" : true,
