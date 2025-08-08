@@ -1,0 +1,3 @@
+pandoc -f markdown -t latex  --template=howto-template.tex  --shift-heading-level-by=-1  --lua-filter=replace-arrow.lua -o senate-howto.tex  main.md --number-sections=false
+
+latexmk -lualatex -pv -bibtex- senate-howto.tex

@@ -1,0 +1,125 @@
+\DocumentMetadata{
+pdfstandard={UA-2,A-4f},
+tagging=on,
+lang=en,
+tagging-setup=
+  {math/setup=mathml-SE,
+  extra-modules=verbatim-alt}
+}   % default set-up as of 2025-06-10
+\documentclass[12pt]{article}
+
+%%%%%%%%%%%%%
+% VARIABLES %
+%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%
+% HEAD MATTER %
+%%%%%%%%%%%%%%%
+
+%%% SET DATES %%%
+
+\usepackage[american]{datetime2}
+% \DTMsavedate{meetingdate}{$date$}
+% \DTMsavedate{minutesdate}{$minutesdate$}
+
+%%% LOAD REQUIRED PACKAGES %%%
+
+\usepackage{hyperref}
+
+\usepackage{enumitem} \setlist[enumerate,itemize]{noitemsep}
+\usepackage{fontspec} \defaultfontfeatures{Ligatures={Common},
+% Numbers=Lining
+}
+\setromanfont[Scale=1.0]{Adobe Garamond Pro}
+\setsansfont[Scale=1.0]{Helvetica}
+\setmonofont[Scale=1.0]{Courier}
+
+\usepackage[ % requires LuaLaTeX
+  driver=luatex,
+  margin=1.4in
+]{geometry}
+
+\usepackage{fancyhdr} \pagestyle{fancy}
+\fancyhead{} \fancyhead[LE,RO]{Senate How-to (\the\year)}
+
+\usepackage{sectsty}
+\sectionfont{\normalsize}
+
+\usepackage{textcase}
+% \usepackage{pdfpages} % for including PDF attachments
+
+\usepackage{tocloft} % for customizing a compact table of contents 
+% Customize apperance of ToC:
+% \setlength{\cftbeforetoctitleskip}{-1em} % remove 1em of vertical space before ToC
+\setlength{\cftbeforesecskip}{0mm} % compress vertical spacing between entries
+\renewcommand{\cftsecfont}{\mdseries} % change section entries from bold to regular
+\renewcommand\contentsname{} % cut out the heading "Contents" before ToC
+% \renewcommand{\cftsecleader}{\mdseries\cftdotfill{\cftdotsep}} % add dot fill?
+\renewcommand{\cftsecpagefont}{\mdseries} % change page numbers from bold to regular
+% \renewcommand{\cftsetpnumwidth}{0em} % less space to the left of the page numbers
+
+
+%%%%%%%%%
+% FIXES %
+%%%%%%%%%
+
+
+% % Avoid undefined \tightlist error from Pandoc
+\providecommand{\tightlist}{}
+
+
+
+\hypersetup{
+pdftitle={Senate How-to},
+pdfauthor={Christopher Eliot},
+pdfkeywords={Hofstra, Senate, introduction},
+pdflang={English},
+}
+
+%%%%%%%%%%%%
+% HEADINGS %
+%%%%%%%%%%%%
+
+\begin{document}
+
+\thispagestyle{empty}
+
+%%%%%%%%%
+% TITLE %
+%%%%%%%%%
+
+
+\begin{center}
+  \textbf{\large Senate How-to} \\ Hofstra University Senate (\the\year) 
+\end{center}
+
+
+%%%%%%%%%%%%%%%%
+% INTRODUCTION %
+%%%%%%%%%%%%%%%%
+
+\noindent This is an informal introduction to Hofstra University's University
+Senate, written especially to orient new senators. (This introduction
+does not itself constitute official policy but will point out where
+official policies can be found.)
+
+
+%%%%%%%%%%%%%%%%%%%%%
+% TABLE OF CONTENTS %
+%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center}
+\begin{minipage}[c]{4.25in} % Compress the ToC to width of half page-width
+\tableofcontents
+\end{minipage}
+\end{center}
+
+
+%%%%%%%%%%%%%%%
+% BODY MATTER %
+%%%%%%%%%%%%%%%
+
+$body$
+
+\end{document}
