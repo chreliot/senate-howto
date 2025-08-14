@@ -4,13 +4,13 @@ author: Christopher Eliot
 date: 2025-08-08
 ---
 
-## Why be interested in this?
+## What is this all for?
 
-We joined the university, pretty much all of us, to work on things other than academic policy. But we all want to do well here, and we want the university to do well. Having a set of guidelines and rules governing how we do things can help everyone do what they want to do here well. Ideally, those guidelines—those *policies*—set us up to teach and learn and engage with one another happily and productively, without onerous encumbrances. Moreover, ideally the policies are ones we can get behind, because we or our elected representatives had a hand in crafting them or in keeping them around.
+We joined the university, pretty much all of us, to work on things other than academic policy. But we all want to do well here, and we want the university to do well. Having a set of guidelines governing how we do things can help everyone do what they want to do here well. Ideally, those guidelines—those *policies*—set us up to teach and learn and engage with one another happily and productively, without onerous encumbrances. Moreover, ideally the policies are ones we can support, because we or our elected representatives had a hand in crafting them or in keeping them around.
 
 ## Why is there a University Senate?
 
-Accordingly, Hofstra's Faculty Statute VII establishes “a University Senate, convened by the Faculty.” Our senate has “general powers of supervision over all academic matters concerning the University as a whole.” And it can take up “any other matters referred to it by the Board of Trustees, the University President, or the Provost of the University” (FS VII).
+Accordingly, Hofstra's Faculty Statute VII establishes “a University Senate, convened by the Faculty.” Our Senate has “general powers of supervision over all academic matters concerning the University as a whole.” And it can take up “any other matters referred to it by the Board of Trustees, the University President, or the Provost of the University” (FS VII).
 
 ## What are the Senate's areas of responsibility?
 
@@ -22,9 +22,9 @@ The main institutional, academic and academic-related policies the Senate works 
 
  * **[The Faculty Policy Series][FPS]**: The FPS sets out policies and procedures for faculty members. There are currently about 62 of them, numbered between 1 and 99. More workaday than the Statutes—less fundamental and structural and more procedural—they range widely in topic, from instructional matters like handling academic integrity violations and grade appeals; to research matters like conflict of interest, copyright, and misconduct policies; to organizational matters like the responsibilities of department chairs and how adjunct faculty are hired; to employment matters like research leave and sick leave.
  * **[The Bulletins][Bulletin]**: Published annually, the Bulletins come in several forms: Undergraduate, Graduate, and Law and for undergraduate main/Summer/January sessions. They are fully online. Besides course and program descriptions, each bulletin outlines academic policies in a student-oriented way. It tells students what they can expect from the university and what will be required of them.
- * **[The Faculty Statutes][FS]**: These nine items (plus two more moved or withdrawn), numbered with Roman I to XI, represent general, foundational policies. They establish the university's administrative structure, determine who is on the Faculty and how they're appointed to it, specify how faculty meetings shall be conducted, and create the senate itself. 
+ * **[The Faculty Statutes][FS]**: These nine items (plus two more moved or withdrawn), numbered with Roman I to XI, represent general, foundational policies. They establish the university's administrative structure, determine who is on the Faculty and how they're appointed to it, specify how faculty meetings shall be conducted, and create the Senate itself. 
  
-Much of the work of the Senate involves supervising the FPS and the general, university-wide portions of the Bulletin. The FPS is the main place the Senate commits new and updated procedures.
+Much of the work of the Senate involves supervising the FPS and the general, university-wide portions of the Bulletin. The FPS is the main place the Senate sets down new and updated procedures.
 
 Most of the Senate's business concerns policies for the schools *other than* the Zucker School of Medicine and the Deane School of Law. The medical school and the law school each have a representative on the Senate, and their faculty serve in committee roles—especially on Faculty Affairs and Planning & Budget, where business can affect them—but those schools enjoy autonomy for their academic policies. 
 
@@ -34,17 +34,56 @@ Occasionally, the Senate also passes items that don't fit neatly into the FPS or
 
 An area Hofstra's Senate is *not* involved in is determining faculty, staff, or student workplace conditions and compensation. Those are the domain of Hofstra's collective bargaining units and unions. For faculty, Hofstra's chapter of the American Association of University Professors negotiates agreements that are codified in the current [Collective Bargaining Agreement][CBA], available on the AAUP chapter website.
 
-In practice, this distinction between the appropriate domain of the Senate and the appropriate domain of collective bargaining can be blurry because there are Faculty Policy Series documents on topics like “Work Above Base Load” and “Outside Employment for Faculty.” However, AAUP and administration have negotiated that if there are any conflicts between the FPS and the CBA, the CBA “will control” ([CBA][CBA] 3.2). So, for better or worse, the CBA always has precedence.
+In practice, this distinction between the appropriate domain of the Senate and the appropriate domain of collective bargaining can be blurry because there are Faculty Policy Series documents on topics like “Work Above Base Load” and “Outside Employment for Faculty.” However, AAUP and administration have negotiated that if there are any conflicts between the FPS and the CBA, the CBA “will control” ([CBA][CBA] 3.2). That is, the CBA always has precedence.
 
 Note also that, separately, Hofstra University's Office of Community Standards (within the larger, administrative Division of Student Enrollment, Engagement, and Success) produces the [*Guide to Pride*][GTP] for students. It focuses on non-academic community standards but but also pulls in academic policies from the FPS.
 
 Hofstra also has a variety of other, non-academic policies like those listed [here][policy categories], including safety and security plans, record-retention policy, and the like. Many of these are beyond domain of the Senate, though in certain cases where they impinge on academics, it could be appropriate for the Senate to weigh in on them. Also, for example, the Senate By-laws make the Chemical Hygiene Plan the responsibility of the Special Committee on Environmental Health and Safety.
 
+## How is the Senate structured?
+
+The Senate has two main components: a deliberative assembly and a collection of committees.
+
+Senate meetings—the gatherings of the assembled Senate itself—normally occur at least once a month during the academic year. These meetings of the full Senate normally focus on considering business passed to it by the Senate's committees.
+
+The work of reviewing, analyzing, drafting, and deliberating over policies and initiatives falls to its committees. As of this writing, the Senate has fifteen committees.
+
+The Senate has three main kinds of permanent committees: standing committees, special committees, and subcommittees. (The Senate can also form temporary, ad hoc committees.)
+
+**Standing committees** (other than the Executive Committee) cover general, main areas of Senate concern. Faculty Statute VII (D.1) establishes six standing committees:
+
+ * The Undergraduate Academic Affairs Committee (UAAC)
+ * The Graduate Academic Affairs Committee (GAAC)
+ * The Planning and Budget Committee (P&B)
+ * The Faculty Affairs Committee (FAC)
+ * The Student Affairs Committee (SAC)
+ * The Senate Executive Committee (SEC)
+
+The standing committees meet regularly; they are normally scheduled to meet at least once a month during the academic year, and they sometimes hold additional meetings.
+
+The Senate Executive Committee consists of the chairs of the Senate's standing committees, the President of the Senate, and the Provost (or their designate). It normally communicates with standing committees through their chairs. Its main role is to facilitate the Senate.
+
+**Special committees** are permanent committees appointed by the Senate or by one of its standing committees. They are charged with undertaking investigations or recommending policy or action in specific areas of Senate concern. Special committees appointed by the Senate report to the Senate through the Executive Committee (SEC). They may be asked by the Executive
+Committee to report on specific items directly to the Senate. As of this writing, the By-laws specify five special committees:
+
+ * Communications, Outreach, and Election Committee (COEC) 
+ * Special Committee on Grievances 
+ * Special Committee on Athletic Policy 
+ * Special Committee on the Academic Calendar 
+ * Special Committee on Environmental Health and Safety 
+
+**Subcommittees** are effectively special committees constituted by one of the standing committees; accordingly, they report to their parent standing committees rather than directly to the Senate, usually once per semester. There are currently four subcommittees listed in the By-laws:
+
+ * Academic Review Committee (reports to UAAC)
+ * Committee on the Library (reports to P&B)
+ * Committee on Environmental Priorities (reports to P&B)
+ * Committee on Education and Research Technology (reports to P&B)
+
 ## What is the Senate's main workflow?
 
-The Senate's work is nearly all done by its committees and therefore by the voting members of the committees. The committees review policies and keep an eye out for issues. They draft policy to send to put before the Senate.
+The Senate's work is nearly all done by its committees and therefore by the voting members of the committees. The committees review policies and keep an eye out for issues. They draft policy to put before the Senate.
 
-Coordinating between the Senate's committees and the Senate itself is the Executive Committee (SEC). The SEC refers items to committees, and committees send items to the SEC that they hope will come before the Senate. (The members of the SEC are the chairs of the Senate's standing committees and the Provost, with the President of the University Senate chairing, so the SEC normally communicates with standing committees through their chairs.)
+Coordinating between the Senate's committees and the Senate itself is the Executive Committee (SEC). The SEC refers items to committees, and committees send items to the SEC that they hope will come before the Senate.
 
 At Senate meetings, the Chair of the SEC (who also serves as the Senate President) presents items the SEC has passed to the Senate for approval (see FS VII A.5).
 
@@ -153,7 +192,7 @@ We sometimes refer to the ecosystem of activities, bodies, and procedures around
 
 [A statement of core principles][shared] was written and adopted in 1966 the American Association of University Professors (the national organization, not Hofstra's union), the American Council on Education, and the Association of Governing Boards of Universities and Colleges. The statement sets out the areas of responsibility of interdependent parts of the university, including the Board, Faculty, President, et al., highlighting the importance of communication among parties. The statement mentions the idea of “a faculty-elected senate or council for larger divisions or the institution as a whole” as part of laying out ideals for faculty participation in institutional governance, in communication and collaboration with other parties. 
 
-Hofstra's senate is faculty-convened (FS VII A.1), and faculty members structurally have a majority. But ours is not a “faculty senate,” in that administrators, students, and staff also participate and vote. 
+Hofstra's Senate is faculty-convened (FS VII A.1), and faculty members structurally have a majority. But ours is not a “faculty senate,” in that administrators, students, and staff also participate and vote. 
 
 One might think of Hofstra's shared governance apparatus as including at least the Senate and its committees, full faculty meetings, the process of transmitting resolutions between the faculty and the University President and Board of Trustees, and consultation between the Faculty Leadership Group and the University President and Provost.
 
