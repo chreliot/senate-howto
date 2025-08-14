@@ -1,16 +1,27 @@
 ---
 title: Senate How-To
 author: Christopher Eliot
-date: 2025-08-08
+date: 2025-08-14
 ---
 
 ## What is this all for?
 
 We joined the university, pretty much all of us, to work on things other than academic policy. But we all want to do well here, and we want the university to do well. Having a set of guidelines governing how we do things can help everyone do what they want to do here well. Ideally, those guidelines—those *policies*—set us up to teach and learn and engage with one another happily and productively, without onerous encumbrances. Moreover, ideally the policies are ones we can support, because we or our elected representatives had a hand in crafting them or in keeping them around.
 
+## What is “shared governance”?
+
+We sometimes refer to the ecosystem of activities, bodies, and procedures around the University Senate as Hofstra's “shared governance” apparatus. The term derives from principles developed in the 1960s concerning the governance of academic institutions. 
+
+[A statement of core principles][shared] was written and adopted in 1966 the American Association of University Professors (the national organization, not Hofstra's faculty union per se), the American Council on Education, and the Association of Governing Boards of Universities and Colleges. The statement sets out the areas of responsibility of interdependent parts of the university, including the Board, Faculty, President, et al., highlighting the importance of communication among parties. The statement mentions the idea of “a faculty-elected senate or council for larger divisions or the institution as a whole” as part of laying out ideals for faculty participation in institutional governance, in communication and collaboration with other parties. 
+
+Hofstra's Senate is faculty-convened (FS VII A.1), and faculty members structurally have a majority. But ours is not a “faculty senate,” in that administrators, students, and staff also participate and vote. 
+
+One might think of Hofstra's shared governance apparatus as including at least the Senate and its committees, full faculty meetings, the process of transmitting resolutions between the faculty and the University President and Board of Trustees, and consultation between the Faculty Leadership Group and the University President and Provost.
+
 ## Why is there a University Senate?
 
 Accordingly, Hofstra's Faculty Statute VII establishes “a University Senate, convened by the Faculty.” Our Senate has “general powers of supervision over all academic matters concerning the University as a whole.” And it can take up “any other matters referred to it by the Board of Trustees, the University President, or the Provost of the University” (FS VII).
+
 
 ## What are the Senate's areas of responsibility?
 
@@ -36,7 +47,7 @@ An area Hofstra's Senate is *not* involved in is determining faculty, staff, or 
 
 In practice, this distinction between the appropriate domain of the Senate and the appropriate domain of collective bargaining can be blurry because there are Faculty Policy Series documents on topics like “Work Above Base Load” and “Outside Employment for Faculty.” However, AAUP and administration have negotiated that if there are any conflicts between the FPS and the CBA, the CBA “will control” ([CBA][CBA] 3.2). That is, the CBA always has precedence.
 
-Note also that, separately, Hofstra University's Office of Community Standards (within the larger, administrative Division of Student Enrollment, Engagement, and Success) produces the [*Guide to Pride*][GTP] for students. It focuses on non-academic community standards but but also pulls in academic policies from the FPS.
+Note also that, separately, Hofstra University's Office of Community Standards (within the larger, administrative Division of Student Enrollment, Engagement, and Success) produces the [*Guide to Pride*][GTP] for students. It focuses on non-academic community standards but  also pulls in academic policies from the FPS.
 
 Hofstra also has a variety of other, non-academic policies like those listed [here][policy categories], including safety and security plans, record-retention policy, and the like. Many of these are beyond domain of the Senate, though in certain cases where they impinge on academics, it could be appropriate for the Senate to weigh in on them. Also, for example, the Senate By-laws make the Chemical Hygiene Plan the responsibility of the Special Committee on Environmental Health and Safety.
 
@@ -81,11 +92,15 @@ Committee to report on specific items directly to the Senate. As of this writing
 
 ## What is the Senate's main workflow?
 
-The Senate's work is nearly all done by its committees and therefore by the voting members of the committees. The committees review policies and keep an eye out for issues. They draft policy to put before the Senate.
+The Senate's work is nearly all done by its committees and therefore by the voting members of the committees. 
 
-Coordinating between the Senate's committees and the Senate itself is the Executive Committee (SEC). The SEC refers items to committees, and committees send items to the SEC that they hope will come before the Senate.
+The committees review policies and keep an eye out for issues. The issues they take up can come from a lot of different sources: from committee members, from the committee's chair, from a subcommittee, as a referral from the Senate Executive Committee or the Senate itself, from the committee's adviser or another administrator, or from anyone else on campus. The sources are unrestricted. However, the committee's chair sets the agenda for the committee, and the committee itself determines what issues it will take up and not take up.
 
-At Senate meetings, the Chair of the SEC (who also serves as the Senate President) presents items the SEC has passed to the Senate for approval (see FS VII A.5).
+Committees then draft or revise policy proposals and other items they want to put before the Senate. When the committee determines that an item is ready to go forward, the committee votes on it.
+
+An item passed by a committee goes to the Senate Executive Committee. The committee's chair brings it to the SEC. The SEC then also votes on whether to take the item forward to the Senate—perhaps with modifications—or to return it to the committee, or something else. 
+
+Then, at Senate meetings, the Chair of the SEC (who also serves as the Senate President) presents items the SEC has passed to the Senate for the Senate's approval by vote (see FS VII A.5).
 
 When items are passed by the Senate, they normally go to the full faculty as either information items or action items. 
 
@@ -117,25 +132,30 @@ Faculty Statute VII also stipulates that except in matters covered by the Statut
 
 Of course, in the background, Hofstra's general policies, including those in the [Faculty Policy Series][FPS] related to community standards and professional conduct, continue to apply, as do laws.  
 
-## What rules govern Senate committees?
-
-Senate committees are governed by the same rules as the Senate, but in particular by the sections of the [Senate By-laws][bylaws] establishing their committee. The By-laws set out the membership and the mandate for each committee and sometimes other guidance. Reading one's committee's brief By-laws carefully helps a lot when the question arises, What are we doing here again?
-
-Similarly, Senate committees are governed by *Robert's Rules of Order*. Some awkwardness in committee meetings and grumbling about rules can be due to confusions about what *Robert's Rules* involves. It is widely overlooked that the *Rules* acknowledges that in committees “some of the formality that is necessary in a large assembly would hinder business” (*RRO* 49:21).
-
-Specifically, in committee meetings, *Robert's Rules* indicates: “motions need not be seconded”; “informal discussion of a subject is permitted while no motion is pending”; “when a proposal is perfectly clear to all present, a vote can be taken without a motion’s having been introduced”; generally, “a vote can be taken initially by a show of hands”; and the chair “may, without leaving the chair, speak in informal discussions and in debate, and vote on all questions” (*RRO* 49:21). That is, the *formal* guidelines for committees are pretty casual. Confidently eschew excess formality.
-
-Note that Hofstra Library has available ebooks of both [*Robert's Rules of Order: Newly Revised*][RRONR] and the very helpful, official summary/overview version [*Robert's Rules of Order: Newly Revised in Brief*][RROIB]. (Also note that Hofstra Professor of Mathematics Daniel Seabold is a co-author of both!) A little familiarity with procedure can help one make things happen—not only for committee chairs but also for participants.
-
-
 
 ## Who is in the Senate?
 
-There are two categories of voting members of the Senate: elected and ex-officio members.
+There are currently about forty-one members of the Senate. There are two categories of voting members of the Senate: elected and ex-officio members.
 
-Various constituencies get to elect senators to represent them on the Senate: regular professors from each of the schools and then also adjunct faculty as a unit. Some of these elections are managed by the Senate through its Communications, Outreach, and Election Committee. (See FS VII B.2.)
+Various constituencies get to elect senators to represent them on the Senate: regular professors from each of the schools, adjunct faculty as a unit, staff/Local 153, and students. Some of the faculty elections are managed by the Senate through its Communications, Outreach, and Election Committee. (See FS VII B.2.)
 
-Other people have a role in the Senate because of their roles elsewhere. Certain administrators, the Speaker and Vice Speaker of the Faculty, the Chair of the Chairs' Caucus, and the student who is President of the Student Government Association are, by virtue of serving in their roles, full voting members of the Senate. These are the ex-officio members. (See FS VII B.1.)
+Other people have a role in the Senate because of their roles elsewhere. These ex-officio members include the Provost, one academic dean, the Chief Diversity and Inclusion Officer, a representative designated by the Vice President of Student Enrollment, Engagement and Success,  the Speaker and Vice Speaker of the Faculty, the Chair of the Chairs' Caucus, and the student who is President of the Student Government Association. By virtue of serving in their roles, they are full voting members of the Senate. (See FS VII B.1.)
+
+
+## When does the Senate meet?
+
+The Senate normally meets once a month during the academic year, typically on Monday afternoons at 1 PM. The Senate may also have special meetings, though that hasn't happened in recent memory. (See FS VII C.2.) The current year's meeting schedule is available through the [Senate website][Sen]. Invitees will receive Outlook calendar invitations well in advance, by email, from the Senate's Senior Support Specialist. 
+
+## Who may attend Senate meetings?
+
+Elected, ex officio senators, and senators-at-large are invited to attend. Members of the faculty, administrators, chairpersons, students, and staff may also observe meetings of the Senate. These others may, upon invitation of the Senate President, and with the consent of the body, participate in its deliberations, but they may not vote. (See FS VII C.2.d.) The Senate has a quorum only when at least half its *elected* members are present (FS VII C.2.c).
+
+## Who coordinates the Senate?
+
+Most of the logistical work required to operate the Senate is performed by the Senate's Senior Support Specialist.  sends the invitations, organizes the agendas, puts out the name placards, coordinates the Zoom during meetings, and lots else.  As of this writing, the Senate's Senior Support Specialist is Caroline Schreiner ([contact information][caroline]).
+
+The President of the University Senate runs it. The Senate president is a faculty member who is an elected senator subsequently elected by the Senate to be its president (FS VII C.1.a). The President of the Senate also chairs the Senate's Executive Committee. Until 2023, the University Provost presided over the Senate, while the SEC was chaired by a faculty member. As of this writing, the Senate President is Christopher (Chris) Eliot ([contact information][chris]).
+
 
 ## What are senators-at-large?
 
@@ -151,56 +171,42 @@ It is important to recognize, as a committee participant, that not everyone who 
 
 Each committee's chair is responsible for working with the Senate's Senior Support Specialist to schedule the committee's meetings — ideally at a time when as many members as possible can attend. The chair sets and circulates the agenda for each meeting, keep records on each meeting in the form of minutes, and generally coordinates the work of the committee.
 
-Each chair of a standing committee of the Senate (UAAC, GAAC, FAC, P&B, and SAC) also automatically becomes a member of the Senate Executive Committee (SEC), which coordinates the Senate's work. Besides these chairs, the SEC includes the Senate President, who chairs it, and the Provost (or their designate).
+Committee chairs take the lead in identifying issues and projects relevant to their committee's areas of responsibility in the Senate By-laws. They bring to committee meetings issues they identify independently, issues that arise in discussion with others including committee advisers, and issues referred to them by the Senate or the Senate Executive Committee. Besides reviewing their committee's mandate in the By-laws, committee chairs may find it useful to consult with others around campus to identify possible issues.
 
-As the SEC normally meets once a month during the academic year, the standing committee chairs regularly report on their committee's work to the SEC.
+Committee chairs also run meetings, ensuring there is a quorum (of at least half of the elected and at-large members), coordinating discussion, delegating tasks, and ultimately moving items to a vote when they're ready.
 
-The chairs of Senate subcommittees (ARC, CoL, CEP, CERT) normally report on behalf of their committees to the parent committees at least once each semester. When it's useful, they may coordinate with the Senate President about reporting to the full Senate.
+Each chair of a standing committee of the Senate (UAAC, GAAC, FAC, P&B, and SAC) also automatically becomes a member of the Senate Executive Committee (SEC), which coordinates the Senate's work and refers business to committees as appropriate. As the SEC normally meets once a month during the academic year, the standing committee chairs regularly report on their committee's work to the SEC.
 
-The chairs of Senate special committees (COEC, SCAP, SCAC, SCEHS) Special Committees normally report in writing to the Senate
-Executive Committee once a semester and may be asked by the Senate Executive
-Committee to report on specific items directly to the Senate. (SCG normally works with the chair of FAC.)
+Chairs of special and subcommittees report regularly as in the By-laws. as The chairs of subcommittees (ARC, CoL, CEP, CERT) normally report on behalf of their committees to the parent committees at least once each semester. The chairs of Senate special committees (COEC, SCAP, SCAC, SCEHS) normally report in writing to the Senate Executive Committee once a semester and may be asked by the Senate Executive Committee to report on specific items directly to the Senate.
 
-## When does the Senate meet?
+## What rules govern Senate committees?
 
-The Senate normally meets once a month during the academic year, typically on Monday afternoons at 1 PM. The Senate may also have special meetings, though that hasn't happened in recent memory. (See FS VII C.2.) The current year's meeting schedule is available through the [Senate website][Sen]. Invitees will receive Outlook calendar invitations well in advance, by email, from the Senate's Senior Support Specialist Caroline Schreiner. 
+Senate committees are governed by the same rules as the Senate, but in particular by the sections of the [Senate By-laws][bylaws] establishing their committee. The By-laws set out the membership and the mandate for each committee and sometimes other guidance. Reading one's committee's brief By-laws carefully helps a lot when the question arises, What are we doing here again?
 
-## Who may attend Senate meetings?
+Similarly, Senate committees are governed by *Robert's Rules of Order*. Some awkwardness in committee meetings and grumbling about rules can be due to confusions about what *Robert's Rules* involves. It is widely overlooked that the *Rules* acknowledges that in committees “some of the formality that is necessary in a large assembly would hinder business” (*RRO* 49:21).
 
-Elected, ex officio senators, and senators-at-large are invited to attend. Members of the faculty, administration, chairpersons, students, and staff may
-also observe meetings of the Senate. These others may, upon invitation of the Senate President, and with the consent of the body, participate in its deliberations, but they may not vote. (See FS VII C.2.d.) The Senate has a quorum only when at least half its *elected* members are present (FS VII C.2.c).
+Specifically, in committee meetings, *Robert's Rules* indicates: “motions need not be seconded”; “informal discussion of a subject is permitted while no motion is pending”; “when a proposal is perfectly clear to all present, a vote can be taken without a motion’s having been introduced”; generally, “a vote can be taken initially by a show of hands”; and the chair “may, without leaving the chair, speak in informal discussions and in debate, and vote on all questions” (*RRO* 49:21). That is, the *formal* guidelines for committees are pretty casual. Confidently eschew excess formality.
 
-## Who coordinates the Senate?
+Note that Hofstra Library has available ebooks of both [*Robert's Rules of Order: Newly Revised*][RRONR] and the very helpful, official summary/overview version [*Robert's Rules of Order: Newly Revised in Brief*][RROIB]. (Incidentally, Hofstra Professor of Mathematics Daniel Seabold is a co-author of both!) A little familiarity with procedure can help one make things happen—not only for committee chairs but also for participants.
 
-Most of the logistical work required to operate the Senate is performed by the Senate's Senior Support Specialist. She sends the invitations, organizes the agendas, puts out the name placards, coordinates the Zoom during meetings, and lots else. Currently the Senate's Senior Support Specialist is Caroline Schreiner ([contact information][caroline]).
 
-The President of the University Senate runs it. The Senate president is a faculty member who is an elected senator subsequently elected by the Senate to be its president (FS VII C.1.a). The President of the Senate also chairs the Senate's Executive Committee. Until 2023, the University Provost presided over the Senate, while the SEC was chaired by a faculty member. Currently the Senate President is Christopher (Chris) Eliot ([contact information][chris]).
 
-## How can elected senators communicate with their constituents?
-
-The Senate operates “course” sites on Hofstra's Canvas learning management system for each of the faculty units that elect senators. These sites aim to  facilitate democratic engagement with the Senate and raise awareness of Senate initiatives. Ideally, senators will share key items of Senate business and news with constituents. Ideally constituents will be reminded of who their senators are and think of senators as potential recipients for items of concern and promising ideas.
-
-Senators are made “teachers” in of these Canvas courses, and all the faculty in the unit are invited to the “student” role. This allows senators to send announcements to their constituents by email. They can open these announcements for constituent comments, and constituents can reply by email.
-
-The membership of these sites should be refreshed every year. Participants must opt in on Canvas  to participate, and they must also have “receive announcements as emails” turned on in their Canvas settings to receive emails.
-
-For non-faculty student, staff, and administrative senators, communication channels vary by group. (Senators should coordinate with the Senate President and Senior Support Specialist if they need help.) 
-
-## What is “shared governance”?
-
-We sometimes refer to the ecosystem of activities, bodies, and procedures around the University Senate as Hofstra's “shared governance” apparatus. The term derives from principles developed in the 1960s concerning the governance of academic institutions. 
-
-[A statement of core principles][shared] was written and adopted in 1966 the American Association of University Professors (the national organization, not Hofstra's union), the American Council on Education, and the Association of Governing Boards of Universities and Colleges. The statement sets out the areas of responsibility of interdependent parts of the university, including the Board, Faculty, President, et al., highlighting the importance of communication among parties. The statement mentions the idea of “a faculty-elected senate or council for larger divisions or the institution as a whole” as part of laying out ideals for faculty participation in institutional governance, in communication and collaboration with other parties. 
-
-Hofstra's Senate is faculty-convened (FS VII A.1), and faculty members structurally have a majority. But ours is not a “faculty senate,” in that administrators, students, and staff also participate and vote. 
-
-One might think of Hofstra's shared governance apparatus as including at least the Senate and its committees, full faculty meetings, the process of transmitting resolutions between the faculty and the University President and Board of Trustees, and consultation between the Faculty Leadership Group and the University President and Provost.
 
 ## What is the Faculty Leadership Group?
 
 In 2013 a [resolution][infomtg] was passed specifying that “the [University] President shall meet regularly (preferably at the beginning and the end of the fall and spring semesters,) with the Speaker of the Faculty, the Chair of the Senate Executive Committee, the Chair of the Chairs’ Caucus and when appropriate, other shared governance leadership, to provide informational updates on developments concerning University strategies and policies.”
 
 Then in 2020 that small group of elected faculty leaders plus the AAUP chapter president began meeting regularly with the Provost to address the COVID crisis situation, and they have continued to meet. This “FLG” also meets with the Provost at least twice each semester to discuss concerns, issues, ideas, and the like. Sometimes issues raised in this forum get referred to Senate committees, just as others are referred to appropriate administrators.
+
+## How can elected senators communicate with their constituents?
+
+The Senate operates “course” sites on Hofstra's Canvas learning management system for each of the faculty units that elect senators. These sites aim to  facilitate democratic engagement with the Senate and raise awareness of Senate initiatives. Ideally, senators will share key items of Senate business and news with constituents. Ideally constituents will be reminded of who their senators are and think of senators as potential recipients for items of concern and promising ideas.
+
+Senators are made “teachers” in of these Canvas courses, and all the faculty in the unit are invited to the “student” role. This allows senators to send (a) messages to their constituents by email or (b) announcements on the course site that may also go out as emails, depending on user preferences. Senators can open announcements to constituent comments, and constituents can reply to messages or announcements by email.
+
+The membership of these sites should be refreshed every year. Participants must opt in on Canvas  to participate, and they must also have “receive announcements as emails” turned on in their Canvas settings to receive messages posted announcements.
+
+For non-faculty student, staff, and administrative senators, communication channels vary by group. (Senators should coordinate with the Senate President and Senior Support Specialist if they need help.) 
 
 [FS]: https://www.hofstra.edu/sites/default/files/2024-04/facultystatutes.pdf
 [FPS]: https://www.hofstra.edu/senate/faculty-policy-series.html
