@@ -191,14 +191,15 @@ Specifically, in committee meetings, *Robert's Rules* indicates: “motions need
 
 Note that Hofstra Library has available ebooks of both [*Robert's Rules of Order: Newly Revised*][RRONR] and the very helpful, official summary/overview version [*Robert's Rules of Order: Newly Revised in Brief*][RROIB]. (Incidentally, Hofstra Associate Professor of Mathematics Daniel Seabold is a co-author of both!) A little familiarity with procedure can help one make things happen—not only for committee chairs but also for participants.
 
-
-
-
 ## What is the Faculty Leadership Group?
+
+“Faculty Leadership Group” refers to two overlapping, small groups of faculty whose members are elected by campus groups with distinct purposes. The members are elected by the full regular faculty, the Senate, the Chairs, and the AAUP.
 
 In 2013 a [resolution][infomtg] was passed specifying that “the [University] President shall meet regularly (preferably at the beginning and the end of the fall and spring semesters,) with the Speaker of the Faculty, the Chair of the Senate Executive Committee, the Chair of the Chairs’ Caucus and when appropriate, other shared governance leadership, to provide informational updates on developments concerning University strategies and policies.”
 
-Then in 2020 that small group of elected faculty leaders plus the AAUP chapter president began meeting regularly with the Provost to address the COVID crisis situation, and they have continued to meet. This “FLG” also meets with the Provost at least twice each semester to discuss concerns, issues, ideas, and the like. Sometimes issues raised in this forum get referred to Senate committees, just as others are referred to appropriate administrators.
+Then, separately, in 2020 that small group of elected faculty leaders plus the AAUP chapter president began meeting regularly with the Provost to address the COVID crisis, and they have continued to meet. This “FLG” also meets with the Provost at least twice each semester to discuss concerns, issues, ideas, and the like. 
+
+In these two configurations, these elected representatives meet with senior administration at least eight times per year, and often more. Sometimes issues raised in these forums are referred to Senate committees, while others are referred to appropriate administrators.
 
 ## How can elected senators communicate with their constituents?
 
