@@ -19,7 +19,7 @@ Accordingly, Hofstra's Faculty Statute VII establishes “a University Senate, c
 
 We sometimes refer to the ecosystem of activities, bodies, and procedures around the University Senate as Hofstra's “shared governance” apparatus. The term derives from principles developed in the 1960s concerning the governance of higher education. 
 
-[A statement of core principles][shared] was written and adopted in 1966 by the American Association of University Professors (the national organization), the American Council on Education, and the Association of Governing Boards of Universities and Colleges. The statement proposes areas of responsibility for each of the interdependent parts of universities, including their Board, Faculty, President, et al., highlighting the importance of communication among the parts. The statement mentions the idea of “a faculty-elected senate or council for larger divisions or the institution as a whole;” it brings that up as part of setting out ideals for faculty participation in institutional governance, in communication and collaboration with other parties. 
+[A statement of core principles][shared] was written and adopted in 1966 by the American Association of University Professors (the national organization), the American Council on Education, and the Association of Governing Boards of Universities and Colleges. The statement proposes areas of responsibility for each of the interdependent parts of universities, including their boards, faculties, presidents, et al., highlighting the importance of communication among the parts. The statement mentions the idea of “a faculty-elected senate or council for larger divisions or the institution as a whole;” it brings that up as part of setting out ideals for faculty participation in institutional governance, in communication and collaboration with other parties. 
 
 Hofstra's Senate is faculty-convened (FS VII A.1), and faculty members structurally have a majority. But ours is not a “faculty senate,” in that administrators, students, and staff also meaningfully participate and vote. 
 
@@ -34,7 +34,7 @@ Besides supervising "all academic matters concerning the University as a whole" 
 The main institutional, academic and academic-related policies the Senate works on are in three places:
 
  * **[The Faculty Policy Series][FPS]**: The FPS sets out policies and procedures for faculty members. There are currently about 62 of them, numbered between 1 and 99. More workaday than the Statutes—less fundamental and structural and more procedural—they range widely in topic, from instructional matters like handling academic integrity violations and grade appeals; to research matters like conflict of interest, copyright, and misconduct policies; to organizational matters like the responsibilities of department chairs and how adjunct faculty are hired; to employment matters like research leave and sick leave.
- * **[The Bulletins][Bulletin]**: Published annually, the Bulletins come in several forms: Undergraduate, Graduate, and Law, with a new edition for each session. They are fully online. Besides course and program descriptions, each Bulletin outlines academic policies in a student-oriented way. The Bulletin tells students what they can expect from the university and what will be required of them.
+ * **[The Bulletins][Bulletin]**: Published annually, the Bulletins come in several forms: Undergraduate, Graduate, and Law, with a new edition for each session. They are fully online. Besides course and program descriptions, each Bulletin outlines academic policies in a student-oriented way. The Bulletins tell students what they can expect from the university and what will be required of them.
  * **[The Faculty Statutes][FS]**: These nine items (plus two more moved or withdrawn), numbered Roman I to XI, represent general, foundational policies. They establish the university's administrative structure, determine who is on the Faculty and how they're appointed to it, specify how faculty meetings shall be conducted, and create the Senate itself. 
  
 Much of the work of the Senate involves supervising the FPS and the general, university-wide portions of the Bulletin. The FPS is the main place the Senate—with the approval of further levels—enshrines new and updated policies.
@@ -74,7 +74,7 @@ The Senate has three main kinds of permanent committees: standing committees, sp
 
 The standing committees meet regularly; they are normally scheduled to meet at least once a month during the academic year, and they sometimes hold additional meetings.
 
-One of these standing committees, the Senate Executive Committee, consists of the chairs of the other standing committees, along with the President of the Senate, and the Provost (or their designate). It normally communicates with the other standing committees through their chairs. Its main role is to facilitate the Senate.
+One of these standing committees, the Senate Executive Committee, consists of the chairs of the other standing committees, along with the President of the Senate and the Provost (or their designate). It normally communicates with the other standing committees through their chairs. Its main role is to facilitate the Senate.
 
 **Special committees** are permanent committees appointed by the Senate or by one of its standing committees. They are charged with undertaking investigations or recommending policy or action in specific areas of Senate concern. Special committees appointed by the Senate report to the Senate through the Executive Committee (SEC). They may be asked by the Executive Committee to report on specific items directly to the Senate. As of this writing, the By-laws specify five special committees:
 
@@ -109,7 +109,7 @@ When items are passed by the Senate, they normally go to the full faculty as act
 
 ## What happens to items passed by the Senate?
 
-Action items passed by the Senate normally go to the full faculty for its approval at one if its four annual working meetings (see FS IX). 
+Action items passed by the Senate normally go to the full faculty for its approval at one of its four annual working meetings (see FS IX). 
 
 Items passed by the full faculty are then sent, via intermediate review by the Provost and the Office of General Counsel, to the University President and Board of Trustees. Items passed by the Senate only become policies when approved and signed by the University President.
 
@@ -117,7 +117,7 @@ The standard approval sequence for Senate proposals is therefore: (subcommittee 
 
 However, the flow of passed motions is not always linear; items are sometimes  returned to previous stages, including all the way back to the originating committees.
 
-The University President and the Speaker of the Faculty normally notify the Senate and full faculty when they receive notice that the University President has signed something passed by the Senate and full faculty.
+The Senate President and the Speaker of the Faculty normally notify the Senate and full faculty when they receive notice that the University President has signed something passed by the Senate and full faculty.
 
 ## Must all Senate items come from its committees?
 
