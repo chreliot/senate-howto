@@ -118,7 +118,7 @@ The standard approval sequence for Senate proposals is therefore: (subcommittee 
 
 However, the flow of passed motions is not always linear; items are sometimes  returned to previous stages, including all the way back to the originating committees.
 
-The University President and the Speaker of the Faculty normally notify the Senate and full faculty when they receive notice that the University President has signed something passed by the Senate and Full Faculty.
+The University President and the Speaker of the Faculty normally notify the Senate and full faculty when they receive notice that the University President has signed something passed by the Senate and full faculty.
 
 ## Must all Senate items come from its committees?
 
