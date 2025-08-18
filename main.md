@@ -190,7 +190,7 @@ Similarly, Senate committees are governed by *Robert's Rules of Order*. Some awk
 
 Specifically, in committee meetings, *Robert's Rules* indicates: “motions need not be seconded;” “informal discussion of a subject is permitted while no motion is pending;” “when a proposal is perfectly clear to all present, a vote can be taken without a motion’s having been introduced;” generally, “a vote can be taken initially by a show of hands;” and the chair “may, without leaving the chair, speak in informal discussions and in debate, and vote on all questions” (*RRO* 49:21). That is, the *formal* guidelines for committees are pretty casual. Confidently eschew excess formality.
 
-Note that Hofstra Library has available ebooks of both [*Robert's Rules of Order: Newly Revised*][RRONR] and the very helpful, official summary/overview version [*Robert's Rules of Order: Newly Revised in Brief*][RROIB]. (Incidentally, Hofstra Professor of Mathematics Daniel Seabold is a co-author of both!) A little familiarity with procedure can help one make things happen—not only for committee chairs but also for participants.
+Note that Hofstra Library has available ebooks of both [*Robert's Rules of Order: Newly Revised*][RRONR] and the very helpful, official summary/overview version [*Robert's Rules of Order: Newly Revised in Brief*][RROIB]. (Incidentally, Hofstra Associate Professor of Mathematics Daniel Seabold is a co-author of both!) A little familiarity with procedure can help one make things happen—not only for committee chairs but also for participants.
 
 
 
