@@ -124,7 +124,7 @@ The University President and the Speaker of the Faculty normally notify the Sena
 
 Though it is not the standard workflow for fully reviewing initiatives, sometimes items are introduced at  Senate or full faculty meetings as motions (subject to guidelines in FS VII, FS X, and *Robert's Rules*). In other words, it's not *required* that items coming before the Senate have their origin in a committee. But because the Senate isn't equipped to evaluate the full implications or complexities of many proposals, new business introduced at Senate may often be referred to the appropriate committee for analysis, or at least to the Executive Committee. 
 
-But also, the Senate's rules specify that “before a vote may be taken on an item presented for action, senators must have had at least two working days published notice” (FS VII C.2.a). So, action items must be circulated in advance. The Senate's Senior Support Specialist usually finalizes and circulates the Senate's agenda on the Thursday before Monday Senate meetings. So, items that need “published notice” need to go to her before then. Ideally, they would also go  to the Senate Executive Committee, which sets the meeting agenda; it normally meets one week before Senate meetings.
+But also, the Senate's rules specify that “before a vote may be taken on an item presented for action, senators must have had at least two working days published notice” (FS VII C.2.a). So, action items must be circulated in advance. The Senate's Senior Support Specialist usually finalizes and circulates the Senate's agenda on the Thursday before Monday Senate meetings. So, items that need “published notice” need to go to them before then. Ideally, they would also go  to the Senate Executive Committee, which sets the meeting agenda; it normally meets one week before Senate meetings.
 
 ## What rules govern the Senate?
 
@@ -155,10 +155,9 @@ Elected, ex officio senators, and senators-at-large are invited to attend. Only 
 
 ## Who coordinates the Senate?
 
-Most of the logistical work required to operate the Senate is performed by the Senate's Senior Support Specialist.  sends the invitations, organizes the agendas, puts out the name placards, coordinates the Zoom during meetings, and lots else.  As of this writing, the Senate's Senior Support Specialist is Caroline Schreiner ([contact information][caroline]).
+Most of the logistical work required to operate the Senate is performed by the Senate's Senior Support Specialist.  sends the invitations, organizes the agendas, puts out the name placards, coordinates the Zoom during meetings, and lots else.  Contact information for the Senate's current Senior Support Specialist is near the top of the [Senate website main page][Sen].
 
-The President of the University Senate runs it. The Senate president is a faculty member who is an elected senator subsequently elected by the Senate to be its president (FS VII C.1.a). The President of the Senate also chairs the Senate's Executive Committee. Until 2023, the University Provost presided over the Senate, while the SEC was chaired by a faculty member. As of this writing, the Senate President is Christopher (Chris) Eliot ([contact information][chris]).
-
+In collaboration with the Senate Executive Committee, the President of the University Senate runs it. The Senate president is a faculty member who is an elected senator subsequently elected by the Senate to be its president (FS VII C.1.a). The President of the Senate also chairs the Senate's Executive Committee. (Until 2023, the University Provost presided over the Senate, while the SEC was chaired by a faculty member.) Contact information for the current President of the Senate/SEC Chair is at the bottom of the [Senate website main page][Sen].
 
 ## What are senators-at-large?
 
@@ -221,8 +220,6 @@ For non-faculty student, staff, and administrative senators, communication chann
 [Sen]: https://www.hofstra.edu/senate/
 [comp]: https://www.hofstra.edu/senate/committees-subcommittees.html
 [shared]: https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/statement-government-colleges-and
-[caroline]:https://www.hofstra.edu/senate/
-[chris]: https://www.hofstra.edu/faculty-staff/faculty-profile.html?id=415
 [infomtg]: https://www.hofstra.edu/pdf/faculty/senate/senate_resolution_informational_meetings.pdf
 [RRONR]: https://hofstra.on.worldcat.org/oclc/1192561100
 [RROIB]: https://hofstra.on.worldcat.org/oclc/1192973323
