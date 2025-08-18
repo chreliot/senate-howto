@@ -136,6 +136,10 @@ Faculty Statute VII also stipulates that except in matters covered by the Statut
 
 Of course, in the background, Hofstra's general policies, including those in the [Faculty Policy Series][FPS] related to community standards and professional conduct, continue to apply, as do laws.
 
+## When does the Senate meet?
+
+The Senate normally meets once a month during the academic year, typically on Monday afternoons at 1 PM. The Senate may also have special meetings, though that hasn't happened in recent memory. (See FS VII C.2.) The current year's meeting schedule is available through the [Senate website][Sen]. Invitees will receive Outlook calendar invitations well in advance, by email, from the Senate's Senior Support Specialist. 
+
 ## Who is in the Senate?
 
 There are currently about 41 members of the Senate. There are two categories of voting members of the Senate: elected and ex-officio members.
@@ -145,9 +149,6 @@ Various constituencies get to elect senators to represent them on the Senate: re
 Other people have a role in the Senate because of their roles elsewhere. These ex-officio members include the Provost, one academic dean, the Chief Diversity and Inclusion Officer, a representative designated by the Vice President of Student Enrollment, Engagement and Success,  the Speaker and Vice Speaker of the Faculty, and the student who is President of the Student Government Association. By virtue of serving in their roles, they are full voting members of the Senate. (See FS VII B.1.)
 
 
-## When does the Senate meet?
-
-The Senate normally meets once a month during the academic year, typically on Monday afternoons at 1 PM. The Senate may also have special meetings, though that hasn't happened in recent memory. (See FS VII C.2.) The current year's meeting schedule is available through the [Senate website][Sen]. Invitees will receive Outlook calendar invitations well in advance, by email, from the Senate's Senior Support Specialist. 
 
 ## Who may attend Senate meetings?
 
