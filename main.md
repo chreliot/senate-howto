@@ -167,7 +167,7 @@ The Senate appoints to Senate committees others who are *not* voting members of 
 
 The membership of each Senate committee is specified by its page in the [Senate By-laws][bylaws], and the current members of each committee are listed on the Senate website, on the [committees page][comp].
 
-It is important to recognize, as a committee participant, that not everyone who attends committee meetings attends in the same capacity or has the same responsibilities there. Committees include elected senators and appointed senators-at-large, and they are responsible for doing the work of the committee. The senators and senators-at-large also elect one of their members to be committee's chair. The committee sections of the By-laws also specify an advisor for many of the committees who is usually a member of the Provost's office. And many committees have regular guests who also attend in an advisory capacity, people like the Registrar or the Dean of Graduate Admissions.
+It is important to recognize, as a committee participant, that not everyone who attends committee meetings attends in the same capacity or has the same responsibilities there. Committees include elected senators and appointed senators-at-large, and they are responsible for doing the work of the committee. The senators and senators-at-large also elect a full-time Faculty member from the committee to be the committee's chair. The committee sections of the By-laws also specify an advisor for many of the committees who is usually a member of the Provost's office. And many committees have regular guests who also attend in an advisory capacity, people like the Registrar or the Dean of Graduate Admissions.
 
 ## What do committee chairs do?
 
