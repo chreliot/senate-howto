@@ -27,7 +27,10 @@ tagging-setup=
 
 \usepackage{hyperref}
 
-\usepackage{enumitem} \setlist[enumerate,itemize]{noitemsep}
+\usepackage{enumitem} 
+\let\tightlist\relax % to deal with Pandoc's insertion
+
+
 \usepackage{fontspec} \defaultfontfeatures{Ligatures={Common},
 % Numbers=Lining
 }
@@ -41,7 +44,7 @@ tagging-setup=
 ]{geometry}
 
 \usepackage{fancyhdr} \pagestyle{fancy}
-\fancyhead{} \fancyhead[LE,RO]{Senate How-to (\the\year)}
+\fancyhead{} \fancyhead[LE,RO]{Senate How-To (\the\year)}
 
 \usepackage{sectsty}
 \sectionfont{\normalsize}
@@ -51,11 +54,11 @@ tagging-setup=
 
 \usepackage{tocloft} % for customizing a compact table of contents 
 % Customize apperance of ToC:
-% \setlength{\cftbeforetoctitleskip}{-1em} % remove 1em of vertical space before ToC
+ \setlength{\cftbeforetoctitleskip}{-1em} % remove 1em of vertical space before ToC
 \setlength{\cftbeforesecskip}{0mm} % compress vertical spacing between entries
 \renewcommand{\cftsecfont}{\mdseries} % change section entries from bold to regular
 \renewcommand\contentsname{} % cut out the heading "Contents" before ToC
-% \renewcommand{\cftsecleader}{\mdseries\cftdotfill{\cftdotsep}} % add dot fill?
+\renewcommand{\cftsecleader}{\mdseries\cftdotfill{\cftdotsep}} % add dot fill?
 \renewcommand{\cftsecpagefont}{\mdseries} % change page numbers from bold to regular
 % \renewcommand{\cftsetpnumwidth}{0em} % less space to the left of the page numbers
 
@@ -67,7 +70,7 @@ tagging-setup=
 
 % % Avoid undefined \tightlist error from Pandoc
 \providecommand{\tightlist}{}
-
+\setitemize{noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt}
 
 
 \hypersetup{
@@ -75,6 +78,7 @@ pdftitle={Senate How-to},
 pdfauthor={Christopher Eliot},
 pdfkeywords={Hofstra, Senate, introduction},
 pdflang={English},
+linktocpage=true
 }
 
 %%%%%%%%%%%%
@@ -91,7 +95,7 @@ pdflang={English},
 
 
 \begin{center}
-  \textbf{\large Senate How-to} \\ Hofstra University Senate (\the\year) \\ ({\emph Draft of \today} )
+  \textbf{\large Senate How-To} \\ Hofstra University Senate (\the\year) \\ (\emph{Draft of \today} )
 \end{center}
 
 

@@ -2,6 +2,9 @@
 title: Senate How-To
 author: Christopher Eliot
 date: 2025-08-14
+header-includes:
+  - \usepackage{enumitem}  
+  - \let\tightlist\relax
 ---
 
 ## What is all this for?
@@ -14,7 +17,7 @@ Accordingly, Hofstra's Faculty Statute VII establishes “a University Senate, c
 
 ## What is “shared governance”?
 
-We sometimes refer to the ecosystem of activities, bodies, and procedures around the University Senate as Hofstra's “shared governance” apparatus. The term derives from principles developed in the 1960s concerning the governance of academic institutions. 
+We sometimes refer to the ecosystem of activities, bodies, and procedures around the University Senate as Hofstra's “shared governance” apparatus. The term derives from principles developed in the 1960s concerning the governance of higher education. 
 
 [A statement of core principles][shared] was written and adopted in 1966 by the American Association of University Professors (the national organization), the American Council on Education, and the Association of Governing Boards of Universities and Colleges. The statement proposes areas of responsibility for each of the interdependent parts of universities, including their Board, Faculty, President, et al., highlighting the importance of communication among the parts. The statement mentions the idea of “a faculty-elected senate or council for larger divisions or the institution as a whole”; it brings that up as part of setting out ideals for faculty participation in institutional governance, in communication and collaboration with other parties. 
 
