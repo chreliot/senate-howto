@@ -76,8 +76,7 @@ The standing committees meet regularly; they are normally scheduled to meet at l
 
 One of these standing committees, the Senate Executive Committee, consists of the chairs of the other standing committees, along with the President of the Senate, and the Provost (or their designate). It normally communicates with the other standing committees through their chairs. Its main role is to facilitate the Senate.
 
-**Special committees** are permanent committees appointed by the Senate or by one of its standing committees. They are charged with undertaking investigations or recommending policy or action in specific areas of Senate concern. Special committees appointed by the Senate report to the Senate through the Executive Committee (SEC). They may be asked by the Executive
-Committee to report on specific items directly to the Senate. As of this writing, the By-laws specify five special committees:
+**Special committees** are permanent committees appointed by the Senate or by one of its standing committees. They are charged with undertaking investigations or recommending policy or action in specific areas of Senate concern. Special committees appointed by the Senate report to the Senate through the Executive Committee (SEC). They may be asked by the Executive Committee to report on specific items directly to the Senate. As of this writing, the By-laws specify five special committees:
 
  * Communications, Outreach, and Election Committee (COEC) 
  * Special Committee on Grievances 
@@ -96,7 +95,7 @@ Committee to report on specific items directly to the Senate. As of this writing
 
 The Senate's work is nearly all done by its committees and therefore by the voting members of the committees. 
 
-The committees review policies and keep an eye out for issues. The issues they take up can come from a lot of different sources: from committee members, from the committee's chair, from a subcommittee, as a referral from the Senate Executive Committee or the Senate itself, from the committee's adviser or another administrator, or from anyone else on campus. The sources are unrestricted. However, the committee's chair sets the agenda for the committee, and the committee itself determines what issues it will take up and not take up.
+The committees review policies and keep an eye out for issues. The issues they take up can come from a lot of different sources: from committee members, from the committee's chair, from a subcommittee, as a referral from the Senate Executive Committee or the Senate itself, from the committee's adviser or another administrator, or from anyone else on campus. The possible sources are unlimited. However, the committee's chair sets the agenda for the committee, and the committee itself determines what issues it will take up and not take up.
 
 Committees then draft or revise policy proposals and other items they want to put before the Senate. When the committee determines that an item is ready to go forward, the committee votes on it.
 
@@ -204,13 +203,13 @@ In these two configurations, these elected representatives meet with senior admi
 
 ## How can elected senators communicate with their constituents?
 
-The Senate operates “course” sites on Hofstra's Canvas learning management system for each of the faculty units that elect senators. These sites aim to  facilitate democratic engagement with the Senate and raise awareness of Senate initiatives. Ideally, senators will share key items of Senate business and news with constituents. Ideally constituents will be reminded of who their senators are and think of senators as potential recipients for items of concern and promising ideas.
+The Senate operates “course” sites on Hofstra's Canvas learning management system for each of the faculty units that elect senators. These sites aim to  facilitate democratic engagement with the Senate and raise awareness of Senate initiatives. Ideally, senators will share key items of Senate business and news with constituents. In turn, constituents will be reminded who their senators are and may think of senators as potential recipients for items of concern and promising ideas.
 
-Senators are made “teachers” in of these Canvas courses, and all the faculty in the unit are invited to the “student” role. This allows senators to send (a) messages to their constituents by email or (b) announcements on the course site that may also go out as emails, depending on user preferences. Senators can open announcements to constituent comments, and constituents can reply to messages or announcements by email.
+Senators are made “teachers” in of these Canvas courses, and all the faculty in the unit are invited to the “student” role. This allows senators to send (a) messages to their constituents by email or (b) announcements on the course site that may also go out as emails (depending on users' preference settings). Senators can open announcements to constituent comments, and constituents can reply to messages or announcements by email.
 
-The membership of these sites should be refreshed every year. Participants must opt in on Canvas  to participate, and they must also have “receive announcements as emails” turned on in their Canvas settings to receive messages posted announcements.
+The membership of these sites should be refreshed every year. Participants must opt in on Canvas to participate, and they must also have “receive announcements as emails” turned on in their Canvas settings to receive *announcements* (though *messages* should go out by email to anyone in the course).
 
-For non-faculty student, staff, and administrative senators, communication channels vary by group. (Senators should coordinate with the Senate President and Senior Support Specialist if they need help.) 
+For non-faculty senators (students, staff, and administrators), communication channels vary by group. (Senators should coordinate with the Senate President and Senior Support Specialist if they need help.) 
 
 [FS]: https://www.hofstra.edu/sites/default/files/2024-04/facultystatutes.pdf
 [FPS]: https://www.hofstra.edu/senate/faculty-policy-series.html
