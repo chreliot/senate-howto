@@ -171,7 +171,7 @@ It is important to recognize, as a committee participant, that not everyone who 
 
 ## What do committee chairs do?
 
-Each committee's chair is responsible for working with the Senate's Senior Support Specialist to schedule the committee's meetings — ideally at a time when as many members as possible can attend. The chair sets and circulates the agenda for each meeting, keep records on each meeting in the form of minutes, and generally coordinates the work of the committee.
+Each committee's chair is responsible for working with the Senate's Senior Support Specialist to schedule the committee's meetings — ideally at a time when as many members as possible can attend. The chair sets and circulates the agenda for each meeting, keeps records on each meeting in the form of minutes, and generally coordinates the work of the committee.
 
 Committee chairs take the lead in identifying issues and projects relevant to their committee's areas of responsibility in the Senate By-laws. They bring to committee meetings issues they identify independently, issues that arise in discussion with others including committee advisers, and issues referred to them by the Senate or the Senate Executive Committee. Besides reviewing their committee's mandate in the By-laws, committee chairs may find it useful to consult with others around campus to identify possible issues.
 
@@ -179,7 +179,7 @@ Committee chairs also run meetings, ensuring there is a quorum (of at least half
 
 Each chair of a standing committee of the Senate (UAAC, GAAC, FAC, P&B, and SAC) also automatically becomes a member of the Senate Executive Committee (SEC), which coordinates the Senate's work and refers business to committees as appropriate. As the SEC normally meets once a month during the academic year, the standing committee chairs regularly report on their committee's work to the SEC.
 
-Chairs of special and subcommittees report regularly as in the By-laws. as The chairs of subcommittees (ARC, CoL, CEP, CERT) normally report on behalf of their committees to the parent committees at least once each semester. The chairs of Senate special committees (COEC, SCAP, SCAC, SCEHS) normally report in writing to the Senate Executive Committee once a semester and may be asked by the Senate Executive Committee to report on specific items directly to the Senate.
+Chairs of special and subcommittees report regularly as specified in the By-laws. The chairs of subcommittees (ARC, CoL, CEP, CERT) normally report  to their parent committees at least once each semester. The chairs of special committees (COEC, SCAP, SCAC, SCEHS) normally report once a semester in writing to the Senate Executive Committee; they may also be asked by the Senate Executive Committee to report on specific items directly to the Senate.
 
 ## What rules govern Senate committees?
 
