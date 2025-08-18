@@ -140,9 +140,9 @@ Of course, in the background, Hofstra's general policies, including those in the
 
 There are currently about 41 members of the Senate. There are two categories of voting members of the Senate: elected and ex-officio members.
 
-Various constituencies get to elect senators to represent them on the Senate: regular professors from each of the schools, adjunct faculty as a unit, staff/Local 153, and students. Some of the faculty elections are managed by the Senate through its Communications, Outreach, and Election Committee. (See FS VII B.2.)
+Various constituencies get to elect senators to represent them on the Senate: regular professors from each of the schools, adjunct faculty as a unit, the Chairs' Caucus, staff/Local 153, and students. Some of the faculty elections are managed by the Senate through its Communications, Outreach, and Election Committee. (See FS VII B.2.)
 
-Other people have a role in the Senate because of their roles elsewhere. These ex-officio members include the Provost, one academic dean, the Chief Diversity and Inclusion Officer, a representative designated by the Vice President of Student Enrollment, Engagement and Success,  the Speaker and Vice Speaker of the Faculty, the Chair of the Chairs' Caucus, and the student who is President of the Student Government Association. By virtue of serving in their roles, they are full voting members of the Senate. (See FS VII B.1.)
+Other people have a role in the Senate because of their roles elsewhere. These ex-officio members include the Provost, one academic dean, the Chief Diversity and Inclusion Officer, a representative designated by the Vice President of Student Enrollment, Engagement and Success,  the Speaker and Vice Speaker of the Faculty, and the student who is President of the Student Government Association. By virtue of serving in their roles, they are full voting members of the Senate. (See FS VII B.1.)
 
 
 ## When does the Senate meet?
@@ -151,7 +151,7 @@ The Senate normally meets once a month during the academic year, typically on Mo
 
 ## Who may attend Senate meetings?
 
-Elected, ex officio senators, and senators-at-large are invited to attend. Only elected and ex officio senators vote at Senate meetings; senators-at-large may not. Members of the faculty, administrators, chairpersons, students, and staff may also observe meetings of the Senate. These others may, upon invitation of the Senate President, and with the consent of the body, participate in its deliberations, but they may not vote. (See FS VII C.2.d.) The Senate has a quorum only when at least half its *elected* members are present (FS VII C.2.c).
+Elected, ex officio senators, and senators-at-large are invited to attend. Only elected and ex officio senators vote at Senate meetings; senators-at-large may not. Other members of the faculty, administrators, chairpersons, students, and staff may also observe meetings of the Senate. These others may, at the invitation of the Senate President, and with the consent of the body, participate in its deliberations, but they may not vote. (See FS VII C.2.d.) The Senate has a quorum only when at least half its *elected* members are present (FS VII C.2.c).
 
 ## Who coordinates the Senate?
 
