@@ -74,7 +74,7 @@ The Senate has three main kinds of permanent committees: standing committees, sp
 
 The standing committees meet regularly; they are normally scheduled to meet at least once a month during the academic year, and they sometimes hold additional meetings.
 
-The Senate Executive Committee consists of the chairs of the Senate's standing committees, the President of the Senate, and the Provost (or their designate). It normally communicates with standing committees through their chairs. Its main role is to facilitate the Senate.
+One of these standing committees, the Senate Executive Committee, consists of the chairs of the other standing committees, along with the President of the Senate, and the Provost (or their designate). It normally communicates with the other standing committees through their chairs. Its main role is to facilitate the Senate.
 
 **Special committees** are permanent committees appointed by the Senate or by one of its standing committees. They are charged with undertaking investigations or recommending policy or action in specific areas of Senate concern. Special committees appointed by the Senate report to the Senate through the Executive Committee (SEC). They may be asked by the Executive
 Committee to report on specific items directly to the Senate. As of this writing, the By-laws specify five special committees:
