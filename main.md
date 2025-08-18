@@ -155,7 +155,7 @@ Elected, ex officio senators, and senators-at-large are invited to attend. Only 
 
 ## Who coordinates the Senate?
 
-Most of the logistical work required to operate the Senate is performed by the Senate's Senior Support Specialist.  sends the invitations, organizes the agendas, puts out the name placards, coordinates the Zoom during meetings, and lots else.  Contact information for the Senate's current Senior Support Specialist is near the top of the [Senate website main page][Sen].
+Most of the logistical work required to operate the Senate is performed by the Senate's Senior Support Specialist.  They send the invitations, organize the agendas, put out the name placards, coordinate the Zoom during meetings, and lots else. Contact information for the Senate's current Senior Support Specialist is near the top of the [Senate website main page][Sen].
 
 In collaboration with the Senate Executive Committee, the President of the University Senate runs it. The Senate president is a faculty member who is an elected senator subsequently elected by the Senate to be its president (FS VII C.1.a). The President of the Senate also chairs the Senate's Executive Committee. (Until 2023, the University Provost presided over the Senate, while the SEC was chaired by a faculty member.) Contact information for the current President of the Senate/SEC Chair is at the bottom of the [Senate website main page][Sen].
 
