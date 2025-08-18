@@ -151,7 +151,7 @@ The Senate normally meets once a month during the academic year, typically on Mo
 
 ## Who may attend Senate meetings?
 
-Elected, ex officio senators, and senators-at-large are invited to attend. Members of the faculty, administrators, chairpersons, students, and staff may also observe meetings of the Senate. These others may, upon invitation of the Senate President, and with the consent of the body, participate in its deliberations, but they may not vote. (See FS VII C.2.d.) The Senate has a quorum only when at least half its *elected* members are present (FS VII C.2.c).
+Elected, ex officio senators, and senators-at-large are invited to attend. Only elected and ex officio senators vote at Senate meetings; senators-at-large may not. Members of the faculty, administrators, chairpersons, students, and staff may also observe meetings of the Senate. These others may, upon invitation of the Senate President, and with the consent of the body, participate in its deliberations, but they may not vote. (See FS VII C.2.d.) The Senate has a quorum only when at least half its *elected* members are present (FS VII C.2.c).
 
 ## Who coordinates the Senate?
 
