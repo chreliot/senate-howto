@@ -171,7 +171,7 @@ It is important to recognize, as a committee participant, that not everyone who 
 
 ## What do committee chairs do?
 
-Each committee's chair is responsible for working with the Senate's Senior Support Specialist to schedule the committee's meetings — ideally at a time when as many members as possible can attend. The chair sets and circulates the agenda for each meeting, keeps records on each meeting in the form of minutes, and generally coordinates the work of the committee.
+Each committee's chair is responsible for working with the Senate's Senior Support Specialist to schedule the committee's meetings—ideally at a time when as many members as possible can attend. The chair sets and circulates the agenda for each meeting, keeps records on each meeting in the form of minutes, and generally coordinates the work of the committee.
 
 Committee chairs take the lead in identifying issues and projects relevant to their committee's areas of responsibility in the Senate By-laws. They bring to committee meetings issues they identify independently, issues that arise in discussion with others including committee advisers, and issues referred to them by the Senate or the Senate Executive Committee. Besides reviewing their committee's mandate in the By-laws, committee chairs may find it useful to consult with others around campus to identify possible issues.
 
