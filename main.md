@@ -23,7 +23,7 @@ We sometimes refer to the ecosystem of activities, bodies, and procedures around
 
 Hofstra's Senate is faculty-convened (FS VII A.1), and faculty members structurally have a majority. But ours is not a “faculty senate,” in that administrators, students, and staff also meaningfully participate and vote. 
 
-One might think of Hofstra's shared governance apparatus as including at least the Senate and its committees, the meetings of the full faculty, the process of transmitting resolutions between the faculty and the University President and Board of Trustees, and ongoing consultation between the Faculty Leadership Group and the University President and Provost.
+One might think of Hofstra's shared governance apparatus as including at least the Senate and its committees, the meetings of the full faculty, the process of transmitting resolutions between the faculty and the University President and Board of Trustees, the Chairs' Caucus, and ongoing consultation between the Faculty Leadership Group and the University President and Provost.
 
 ## What are the Senate's areas of responsibility?
 
@@ -127,7 +127,7 @@ But also, the Senate's rules specify that “before a vote may be taken on an it
 
 ## What rules govern the Senate?
 
-The University Senate is established and primarily governed by [Faculty Statute VII, “The University Senate”][FS]. A current copy of all the Statutes including FS VII is linked and available on the [Senate website][Sen]. 
+The University Senate is established and primarily governed by [Faculty Statute VII, “The University Senate.”][FS] A current copy of all the Statutes including FS VII is linked here and available on the [Senate website][Sen].
 
 The Senate's [By-laws][bylaws] (thus titled) mostly concern its individual committees, though Section I ("General") also lists a handful of broader rules. 
 
