@@ -177,7 +177,7 @@ Committee chairs take the lead in identifying issues and projects relevant to th
 
 Committee chairs also run meetings, ensuring there is a quorum (of at least half of the elected and at-large members), coordinating discussion, delegating tasks, and ultimately moving items to a vote when they're ready.
 
-Each chair of a standing committee of the Senate (UAAC, GAAC, FAC, P&B, and SAC) also automatically becomes a member of the Senate Executive Committee (SEC), which coordinates the Senate's work and refers business to committees as appropriate. As the SEC normally meets once a month during the academic year, the standing committee chairs regularly report on their committee's work to the SEC.
+Each chair of a standing committee of the Senate (UAAC, GAAC, FAC, P&B, and SAC) also automatically becomes a member of the Senate Executive Committee (SEC), which coordinates the Senate's work and refers business to committees as appropriate. As the SEC normally meets once a month during the academic year, standing committee chairs regularly report on their committee's work to the SEC.
 
 Chairs of special and subcommittees report regularly as specified in the By-laws. The chairs of subcommittees (ARC, CoL, CEP, CERT) normally report  to their parent committees at least once each semester. The chairs of special committees (COEC, SCAP, SCAC, SCEHS) normally report once a semester in writing to the Senate Executive Committee; they may also be asked by the Senate Executive Committee to report on specific items directly to the Senate.
 
