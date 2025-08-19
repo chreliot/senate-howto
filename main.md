@@ -189,7 +189,7 @@ Similarly, Senate committees are governed by *Robert's Rules of Order*. Some awk
 
 Specifically, in committee meetings, *Robert's Rules* indicates: “motions need not be seconded;” “informal discussion of a subject is permitted while no motion is pending;” “when a proposal is perfectly clear to all present, a vote can be taken without a motion’s having been introduced;” generally, “a vote can be taken initially by a show of hands;” and the chair “may, without leaving the chair, speak in informal discussions and in debate, and vote on all questions” (*RRO* 49:21). That is, the *formal* guidelines for committees are pretty casual. Confidently eschew excess formality.
 
-Note that Hofstra Library has available ebooks of both [*Robert's Rules of Order: Newly Revised*][RRONR] and the very helpful, official summary/overview version [*Robert's Rules of Order: Newly Revised in Brief*][RROIB]. (Incidentally, Hofstra Associate Professor of Mathematics Daniel Seabold is a co-author of both!) A little familiarity with procedure can help one make things happen—not only for committee chairs but also for participants.
+Note that Hofstra Library makes available ebooks of both [*Robert's Rules of Order: Newly Revised*][RRONR] and the very helpful, official summary/overview version [*Robert's Rules of Order: Newly Revised in Brief*][RROIB]. (Incidentally, Hofstra Associate Professor of Mathematics Daniel Seabold is a co-author of both!) A little familiarity with procedure can help one make things happen—not only for committee chairs but also for participants.
 
 ## What is the Faculty Leadership Group?
 
@@ -203,7 +203,7 @@ In these two configurations, elected representatives meet with the University Pr
 
 ## How can elected senators communicate with their constituents?
 
-The Senate operates “course” sites on Hofstra's Canvas learning management system for each of the faculty units that elect senators. These sites aim to  facilitate democratic engagement with the Senate and raise awareness of Senate initiatives. Ideally, senators will share key items of Senate business and news with constituents. In turn, constituents will be reminded who their senators are and may think of senators as potential recipients for items of concern and promising ideas.
+The Senate operates “course” sites on Hofstra's Canvas learning management system for each of the faculty units that elect senators. These sites aim to  facilitate democratic engagement with the Senate and raise awareness of Senate initiatives. Ideally, senators will share key items of Senate business and news with constituents. In turn, constituents will be reminded who their senators are and may think of senators as potential recipients for items of concern or promising ideas.
 
 Senators are made “teachers” in of these Canvas courses, and all the faculty in the unit are invited to the “student” role. This allows senators to send (a) messages to their constituents by email or (b) announcements on the course site that may also go out as emails (depending on users' preference settings). Senators can open announcements to constituent comments, and constituents can reply to messages or announcements by email.
 
