@@ -84,7 +84,7 @@ One of these standing committees, the Senate Executive Committee, consists of th
  * Special Committee on the Academic Calendar 
  * Special Committee on Environmental Health and Safety 
 
-**Subcommittees** are effectively special committees constituted by one of the standing committees; accordingly, they report to their parent standing committees rather than directly to the Senate, usually once per semester. There are currently four subcommittees listed in the By-laws:
+**Subcommittees** are effectively special committees constituted by one of the standing committees; accordingly, they report to their parent standing committees rather than directly to the SEC, usually once per semester. There are currently four subcommittees listed in the By-laws:
 
  * Academic Review Committee (reports to UAAC)
  * Committee on the Library (reports to P&B)
@@ -193,13 +193,13 @@ Note that Hofstra Library has available ebooks of both [*Robert's Rules of Order
 
 ## What is the Faculty Leadership Group?
 
-“Faculty Leadership Group” refers to two overlapping, small groups of faculty whose members are elected by campus groups with distinct purposes. The members are elected by the full regular faculty, the Senate, the Chairs, and the AAUP.
+“Faculty Leadership Group” refers to two overlapping, small groups of faculty whose members are elected by the full faculty, the Senate, Chairs, and the AAUP.
 
 In 2013 a [resolution][infomtg] was passed specifying that “the [University] President shall meet regularly (preferably at the beginning and the end of the fall and spring semesters,) with the Speaker of the Faculty, the Chair of the Senate Executive Committee, the Chair of the Chairs’ Caucus and when appropriate, other shared governance leadership, to provide informational updates on developments concerning University strategies and policies.”
 
-Then, separately, in 2020 that small group of elected faculty leaders plus the AAUP chapter president began meeting regularly with the Provost to address the COVID crisis, and they have continued to meet. This “FLG” also meets with the Provost at least twice each semester to discuss concerns, issues, ideas, and the like. 
+Then, separately, in 2020 that small group of elected faculty leaders plus the AAUP chapter president began meeting regularly with the Provost to address the COVID crisis, and they have continued to meet. This “FLG” also meets with the Provost at least twice each semester to discuss concerns, issues and ideas. 
 
-In these two configurations, these elected representatives meet with senior administration at least eight times per year, and often more. Sometimes issues raised in these forums are referred to Senate committees, while others are referred to appropriate administrators.
+In these two configurations, elected representatives meet with the University President or Provost at least eight times per year, and often more often. Sometimes issues raised in these forums are referred to Senate committees, while others are referred to appropriate administrators.
 
 ## How can elected senators communicate with their constituents?
 
