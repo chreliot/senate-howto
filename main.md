@@ -161,7 +161,7 @@ In collaboration with the Senate Executive Committee, the President of the Unive
 
 ## What are senators-at-large?
 
-The Senate appoints to Senate committees others who are *not* voting members of the Senate. These appointed participants are called “senators-at-large” (styled thus in the Statute), and they can be faculty, administration, chairpersons, or staff. Senators-at-large  serve for two year terms, with renewal possibilities. The purpose of having this role is that the Senate have well-populated committees that are capable of doing the main work of the Senate without making the Senate itself, as a deliberative body, huge and unwieldy. Senators-at-large may participate in the deliberations of the Senate, even though they only vote in committee. (See FS VII B.3.) They play a crucial role in the productivity of the Senate's committees.
+The Senate appoints to Senate committees others who are *not* voting members of the Senate. These appointed participants are called “senators-at-large” (styled thus in the Statute), and they can be faculty, administration, chairpersons, or staff. Senators-at-large  serve for two year terms, with renewal possibilities (FS VII B.3.a). The purpose of having this role is that the Senate have well-populated committees that are capable of doing the main work of the Senate without making the Senate itself, as a deliberative body, huge and unwieldy. Senators-at-large may participate in the deliberations of the Senate, even though they only vote in committee. (See FS VII B.3.) They play a crucial role in the productivity of the Senate's committees.
 
 ## Who is on Senate committees, and in what capacities?
 
