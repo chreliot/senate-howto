@@ -10,5 +10,5 @@ official policies can be found.)
 ```
 pandoc -f markdown -t latex  --template=howto-template.tex  --shift-heading-level-by=-1  --lua-filter=replace-arrow.lua -o senate-howto.tex  main.md 
 
-latexmk -lualatex -pv -bibtex- senate-howto.tex
+latexmk --lualatex -pv -bibtex- senate-howto.tex
 ```

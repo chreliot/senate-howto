@@ -137,7 +137,7 @@ Of course, in the background, Hofstra's general policies, including those in the
 
 ## When does the Senate meet?
 
-The Senate normally meets once a month during the academic year, typically on Monday afternoons at 1 PM. The Senate may also have special meetings, though that hasn't happened in recent memory. (See FS VII C.2.) The current year's meeting schedule is available through the [Senate website][Sen]. Invitees will receive Outlook calendar invitations well in advance, by email, from the Senate's Senior Support Specialist. 
+The Senate normally meets once a month during the academic year, typically on Monday afternoons at 1 PM. The Senate may also have special meetings, though that hasn't happened in recent memory. (See FS VII C.2.) Recently, meetings have been hybrid; participants are encouraged to attend in person but may attend online, displayed on a screen in the meeting room. The current year's meeting schedule is available through the [Senate website][Sen]. Invitees will receive Outlook calendar invitations well in advance, by email, from the Senate's Senior Support Specialist. 
 
 ## Who is in the Senate?
 
