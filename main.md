@@ -145,7 +145,7 @@ There are currently about 41 members of the Senate. There are two categories of 
 
 Various constituencies get to elect senators to represent them on the Senate: regular professors from each of the schools, adjunct faculty as a unit, the Chairs' Caucus, staff/Local 153, and students. Some of the faculty elections are managed by the Senate through its Communications, Outreach, and Election Committee. (See FS VII B.2.)
 
-Other people have a role in the Senate because of their roles elsewhere. These ex officio members include the Provost, one academic dean, the Chief Diversity and Inclusion Officer, a representative designated by the Vice President of Student Enrollment, Engagement and Success,  the Speaker and Vice Speaker of the Faculty, and the student who is President of the Student Government Association. By virtue of serving in their roles, they are full voting members of the Senate. (See FS VII B.1.)
+Other people have a role in the Senate because of their roles elsewhere. These “ex officio” members include the Provost, one academic dean, the Chief Diversity and Inclusion Officer, a representative designated by the Vice President of Student Enrollment, Engagement and Success,  the Speaker and Vice Speaker of the Faculty, and the student who is President of the Student Government Association. By virtue of serving in their roles, they are full voting members of the Senate. (See FS VII B.1.)
 
 
 
