@@ -101,7 +101,7 @@ Committees then draft or revise policy proposals and other items they want to pu
 
 An item passed by a committee goes to the Senate Executive Committee. The committee's chair brings it to the SEC. The SEC then also votes on whether to take the item forward to the Senate—perhaps with modifications—or to return it to the committee, or something else. 
 
-Then, at Senate meetings, the Chair of the SEC (who also serves as the Senate President) presents items the SEC has passed to the Senate. The Senate may discuss proposals and then vote on approving them (see FS VII A.5). 
+Then, at Senate meetings, the Chair of the SEC (who also serves as the Senate President) presents items the SEC has passed to the Senate. These items arrive already moved and seconded from the committee, so they do not need to be seconded at Senate. The Senate may discuss proposals and then vote on approving them (see FS VII A.5). 
 
 As the Senate is a deliberative assembly, members can debate, raise questions about, and even suggest adjustments to proposals that come from committees. However, if it is to work efficiently, the Senate cannot also be a good venue for extended debate or policy-writing. Moreover, it is too easy for sentences written by large groups on the fly to have unintended consequences or oversights. So, if many questions or objections are raised, or substantial suggestions for revisions are made, it can be appropriate for the Senate to send an item back to committee instead of approving it.
 
@@ -124,6 +124,8 @@ The Senate President and the Speaker of the Faculty normally notify the Senate a
 Though it is not the standard workflow for fully reviewing initiatives, sometimes items are introduced at  Senate or full faculty meetings as motions (subject to guidelines in FS VII, FS X, and *Robert's Rules*). In other words, it's not *required* that items coming before the Senate have their origin in a committee. But because the Senate isn't equipped to evaluate the full implications or complexities of many proposals at a glance, new business introduced at Senate may often be referred to the appropriate committee for analysis, or at least to the Executive Committee. 
 
 But also, the Senate's rules specify that “before a vote may be taken on an item presented for action, senators must have had at least two working days published notice” (FS VII C.2.a). So, action items must be circulated in advance. The Senate's Senior Support Specialist usually finalizes and circulates the Senate's agenda on the Thursday before Monday Senate meetings. So, items that need “published notice” need to go to the Senior Support Specialist before then. Ideally, they would also go  to the Senate Executive Committee, which sets the meeting agenda; it normally meets one week before Senate meetings.
+
+Motions introduced at a Senate meeting, including in the New Business section that is usually near the end of the meeting, must be seconded to become Senate business. A senator can second a motion by saying “Second.” Seconding a motion does not imply approval of the motion, just an interest in having it debated and voted on. 
 
 ## What rules govern the Senate?
 
