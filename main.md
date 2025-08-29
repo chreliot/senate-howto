@@ -139,7 +139,7 @@ The Senate's [By-laws][bylaws] (thus titled) mostly concern its individual commi
 
 Faculty Statute VII also stipulates that except in matters covered by the Statute, the current edition of *Robert's Rules of Order* shall be considered binding. In practice, the Senate relaxes some requirements like that speakers must stand up, but the meeting structure and proceedings generally conform to the *Rules*.
 
-Of course, in the background, Hofstra's general policies, including those in the [Faculty Policy Series][FPS] related to community standards and professional conduct, continue to apply, as do laws.
+Of course, in the background, Hofstra's general policies, including those in the [Faculty Policy Series][FPS] related to community standards and professional conduct, continue to apply.
 
 ## When does the Senate meet?
 
