@@ -207,7 +207,7 @@ The Senate operates “course” sites on Hofstra's Canvas learning management s
 
 Senators are made “teachers” in of these Canvas courses, and all the faculty in the unit are invited to the “student” role. This allows senators to send (a) messages to their constituents by email or (b) announcements on the course site that may also go out as emails (depending on users' preference settings). Senators can open announcements to constituent comments, and constituents can reply to messages or announcements by email.
 
-The membership of these sites should be refreshed every year. Participants must opt in on Canvas to participate, and they must also have “receive announcements as emails” turned on in their Canvas settings to receive *announcements* (though *messages* should go out by email to anyone in the course).
+The membership of these sites should be refreshed every year. Participants must opt in on Canvas to participate, and they must also have “receive announcements as emails” turned on in their Canvas settings to receive *announcements* by email (though *messages* should go out by email to anyone in the course).
 
 For non-faculty senators (students, staff, and administrators), communication channels vary by group. (Senators should coordinate with the Senate President and Senior Support Specialist if they need help.) 
 
