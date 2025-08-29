@@ -31,13 +31,17 @@ Besides supervising "all academic matters concerning the University as a whole" 
 
 ## Which policies does the Senate work on?
 
-The main institutional, academic and academic-related policies the Senate works on are in three places:
+The main institutional, academic and academic-related policies the Senate works on are in two places:
 
- * **[The Faculty Policy Series][FPS]**: The FPS sets out policies and procedures for faculty members. There are currently about 62 of them, numbered between 1 and 99. More workaday than the Statutes—less fundamental and structural and more procedural—they range widely in topic, from instructional matters like handling academic integrity violations and grade appeals; to research matters like conflict of interest, copyright, and misconduct policies; to organizational matters like the responsibilities of department chairs and how adjunct faculty are hired; to employment matters like research leave and sick leave.
+ * **[The Faculty Policy Series][FPS]**: The FPS sets out policies and procedures for faculty members. There are currently about 62 of them, numbered between 1 and 99. More workaday than the Faculty Statutes—less fundamental and structural and more procedural—they range widely in topic, from instructional matters like handling academic integrity violations and grade appeals; to research matters like conflict of interest, copyright, and misconduct policies; to organizational matters like the responsibilities of department chairs and how adjunct faculty are hired; to employment matters like research leave and sick leave.
  * **[The Bulletins][Bulletin]**: Published annually, the Bulletins come in several forms: Undergraduate, Graduate, and Law, with a new edition for each session. They are fully online. Besides course and program descriptions, each Bulletin outlines academic policies in a student-oriented way. The Bulletins tell students what they can expect from the university and what will be required of them.
- * **[The Faculty Statutes][FS]**: These nine items (plus two more moved or withdrawn), numbered Roman I to XI, represent general, foundational policies. They establish the university's administrative structure, determine who is on the Faculty and how they're appointed to it, specify how faculty meetings shall be conducted, and create the Senate itself. 
- 
+
 Much of the work of the Senate involves supervising the FPS and the general, university-wide portions of the Bulletin. The FPS is the main place the Senate—with the approval of further levels—enshrines new and updated policies.
+
+In addition, there are two other, more foundational bodies of policy that the Senate takes up less often:
+
+ * **[The By-laws of the Hofstra University Senate][bylaws]**: This document establishes the Senate's own structure, especially its committee structure. 
+ * **[The Faculty Statutes][FS]**: These nine items (plus two more moved or withdrawn), numbered Roman I to XI, represent general, foundational policies. They establish the university's administrative structure, determine who is on the Faculty and how they're appointed to it, specify how faculty meetings shall be conducted, and create the Senate itself. Changes to the Statutes require approval of the university's Board of Trustees.
 
 Most of the Senate's business concerns policies for Hofstra's schools *other than* the Zucker School of Medicine and the Deane School of Law. The medical school and the law school each have a representative on the Senate, and their faculty serve in committee roles—especially on Faculty Affairs and Planning & Budget, where business can affect them—but those schools enjoy autonomy for their academic policies. 
 
@@ -215,7 +219,7 @@ For non-faculty senators (students, staff, and administrators), communication ch
 
 [FS]: https://www.hofstra.edu/sites/default/files/2024-04/facultystatutes.pdf
 [FPS]: https://www.hofstra.edu/senate/faculty-policy-series.html
-[bylaws]: https://www.hofstra.edu/sites/default/files/2022-04/senatebylaws.pdf
+[bylaws]: https://www.hofstra.edu/pdf/faculty/senate/senatebylaws.pdf
 [Bulletin]: https://bulletin.hofstra.edu
 [CBA]: https://aaup-hofstra.org
 [GTP]: https://sites.google.com/hofstra.edu/guide-to-pride/home
