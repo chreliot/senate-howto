@@ -47,7 +47,7 @@ Most of the Senate's business concerns policies for Hofstra's schools *other tha
 
 Occasionally, the Senate also passes items that don't fit neatly into the FPS or Bulletins, or even the Statutes, like a communication to the University President or guidance to its Registrar.
 
-## What about university policies other than FPS/Bulletin/FS?
+## What about university policies other than FPS/Bulletin/By-laws/FS?
 
 Unlike at some other institutions, an area Hofstra's Senate is *not* involved in is determining faculty, staff, or student-employee working conditions and compensation. Those are the domain of Hofstra's collective bargaining units/unions and administration. For faculty, Hofstra's chapter of the American Association of University Professors negotiates agreements that are codified in the current [Collective Bargaining Agreement][CBA], available on the AAUP chapter website.
 
