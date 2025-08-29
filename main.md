@@ -105,7 +105,7 @@ Then, at Senate meetings, the Chair of the SEC (who also serves as the Senate Pr
 
 As the Senate is a deliberative assembly, members can debate, raise questions about, and even suggest adjustments to proposals that come from committees. However, if it is to work efficiently, the Senate cannot also be a good venue for extended debate or policy-writing. Moreover, it is too easy for sentences written by large groups on the fly to have unintended consequences or oversights. So, if many questions or objections are raised, or substantial suggestions for revisions are made, it can be appropriate for the Senate to send an item back to committee instead of approving it.
 
-When items are passed by the Senate, they normally go to the full faculty as action items (or sometimes information items). 
+When items are passed by the Senate, they normally go to the full faculty as action items. (They may go forward as “information items” instead if they do not require a vote at a higher level, for example in the case of reports or Senate By-laws changes). 
 
 ## What happens to items passed by the Senate?
 
